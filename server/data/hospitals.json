@@ -1,0 +1,1734 @@
+[
+  {
+    "name": "SSKM / PG Hospital",
+    "type": "govt",
+    "address": "244, AJC Bose Road, Kolkata – 700020",
+    "phone": "033-2223-0757",
+    "emergency": true,
+    "beds": 1850,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "burns",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "general"
+    ],
+    "note": "Largest govt hospital in Eastern India. 24×7 casualty & Level-I Trauma Centre."
+  },
+  {
+    "name": "NRS Medical College & Hospital",
+    "type": "govt",
+    "address": "138, AJC Bose Road, Kolkata – 700014",
+    "phone": "033-2244-3473",
+    "emergency": true,
+    "beds": 1200,
+    "specialties": [
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "general",
+      "neuro",
+      "orthopedic"
+    ],
+    "note": "Major teaching hospital with 24×7 emergency and dedicated trauma wing."
+  },
+  {
+    "name": "RG Kar Medical College & Hospital",
+    "type": "govt",
+    "address": "1, Khudiram Bose Sarani, Kolkata – 700004",
+    "phone": "033-2555-4545",
+    "emergency": true,
+    "beds": 1500,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "general",
+      "burns"
+    ],
+    "note": "24×7 casualty. Dedicated cardiac care and neurosurgery units."
+  },
+  {
+    "name": "Medical College & Hospital Kolkata",
+    "type": "govt",
+    "address": "88, College Street, Kolkata – 700073",
+    "phone": "033-2212-1215",
+    "emergency": true,
+    "beds": 1400,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "burns",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "general"
+    ],
+    "note": "One of the oldest medical colleges. Comprehensive Level-I trauma and emergency services."
+  },
+  {
+    "name": "Calcutta National Medical College (CNMC)",
+    "type": "govt",
+    "address": "32, Gorachand Road, Kolkata – 700014",
+    "phone": "033-2244-1580",
+    "emergency": true,
+    "beds": 900,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "trauma"
+    ],
+    "note": "24×7 emergency. Strong obstetric and paediatric departments."
+  },
+  {
+    "name": "Sambhunath Pandit Hospital",
+    "type": "govt",
+    "address": "11, Lala Lajpat Rai Sarani, Kolkata – 700020",
+    "phone": "033-2223-0756",
+    "emergency": true,
+    "beds": 550,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "neuro"
+    ],
+    "note": "Govt referral hospital with 24×7 emergency and maternity services."
+  },
+  {
+    "name": "Infectious Disease & Beliaghata General Hospital (ID&BG)",
+    "type": "govt",
+    "address": "57, Beleghata Main Road, Kolkata – 700010",
+    "phone": "033-2350-7076",
+    "emergency": true,
+    "beds": 700,
+    "specialties": [
+      "infectious",
+      "general",
+      "pediatric"
+    ],
+    "note": "Premier infectious disease centre. Key referral for cholera, dengue, malaria & outbreaks."
+  },
+  {
+    "name": "Chittaranjan National Cancer Institute (CNCI)",
+    "type": "govt",
+    "address": "37, SP Mukherjee Road, Kolkata – 700026",
+    "phone": "033-2476-5101",
+    "emergency": false,
+    "beds": 450,
+    "specialties": [
+      "cancer",
+      "general"
+    ],
+    "note": "National-level cancer care — surgery, chemotherapy, radiation. Referral centre for Eastern India."
+  },
+  {
+    "name": "Institute of Child Health (ICH)",
+    "type": "govt",
+    "address": "11, Dr Biresh Guha Street, Kolkata – 700017",
+    "phone": "033-2229-6983",
+    "emergency": true,
+    "beds": 350,
+    "specialties": [
+      "pediatric",
+      "neuro",
+      "cardiac",
+      "general"
+    ],
+    "note": "Dedicated paediatric super-speciality hospital. PICU and neonatal ICU available."
+  },
+  {
+    "name": "Institute of Psychiatry (Govt)",
+    "type": "govt",
+    "address": "7, DH Block, Sector I, Salt Lake, Kolkata – 700064",
+    "phone": "033-2334-1982",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "mental"
+    ],
+    "note": "Premier psychiatric facility. Inpatient, emergency psychiatric assessment and de-addiction."
+  },
+  {
+    "name": "AIIMS Kalyani",
+    "type": "govt",
+    "address": "NH-12, Saguna, Kalyani, Nadia – 741245",
+    "phone": "033-2582-8000",
+    "emergency": true,
+    "beds": 700,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "burns",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "cancer",
+      "general"
+    ],
+    "note": "AIIMS-standard apex hospital. Full super-speciality services. ~40 km from central Kolkata."
+  },
+  {
+    "name": "ESI Hospital Maniktala",
+    "type": "govt",
+    "address": "36, Maniktala Main Road, Kolkata – 700054",
+    "phone": "033-2350-6262",
+    "emergency": true,
+    "beds": 450,
+    "specialties": [
+      "general",
+      "orthopedic",
+      "obstetric",
+      "trauma"
+    ],
+    "note": "ESI-insured workers hospital. 24×7 casualty with general and orthopaedic services."
+  },
+  {
+    "name": "Vivekananda Hospital (Govt – Salt Lake)",
+    "type": "govt",
+    "address": "DH Block, Sector I, Salt Lake, Kolkata – 700064",
+    "phone": "033-2321-4545",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric"
+    ],
+    "note": "State general hospital serving the Salt Lake / Bidhannagar area."
+  },
+  {
+    "name": "Apollo Gleneagles Hospital",
+    "type": "pvt",
+    "address": "58, Canal Circular Road, Kadapara, Kolkata – 700054",
+    "phone": "033-2320-3040",
+    "emergency": true,
+    "beds": 710,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "burns",
+      "orthopedic",
+      "cancer",
+      "obstetric",
+      "pediatric",
+      "transplant"
+    ],
+    "note": "JCI-accredited. Advanced cardiac surgery, robotic surgery, bone marrow transplant, Level-I trauma."
+  },
+  {
+    "name": "Fortis Hospital Anandapur",
+    "type": "pvt",
+    "address": "730, Anandapur, EM Bypass, Kolkata – 700107",
+    "phone": "033-6628-4444",
+    "emergency": true,
+    "beds": 400,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "trauma",
+      "cancer",
+      "obstetric",
+      "pediatric",
+      "general"
+    ],
+    "note": "Multispeciality with dedicated cardiac cath lab, neuro ICU, and 24×7 trauma response."
+  },
+  {
+    "name": "AMRI Hospital Salt Lake",
+    "type": "pvt",
+    "address": "JC-16/17, Sector III, Salt Lake, Kolkata – 700098",
+    "phone": "033-6680-0000",
+    "emergency": true,
+    "beds": 550,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "orthopedic",
+      "obstetric",
+      "pediatric",
+      "cancer",
+      "general"
+    ],
+    "note": "Full super-speciality. 24×7 emergency. Advanced cardiac and neurological ICU."
+  },
+  {
+    "name": "AMRI Hospital Dhakuria",
+    "type": "pvt",
+    "address": "230, NSC Bose Road, Dhakuria, Kolkata – 700047",
+    "phone": "033-4040-0000",
+    "emergency": true,
+    "beds": 350,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "general"
+    ],
+    "note": "Full-service private hospital with 24×7 emergency and ICU."
+  },
+  {
+    "name": "Medica Superspecialty Hospital",
+    "type": "pvt",
+    "address": "127, Mukundapur, EM Bypass, Kolkata – 700099",
+    "phone": "033-4040-3040",
+    "emergency": true,
+    "beds": 500,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "orthopedic",
+      "cancer",
+      "transplant",
+      "obstetric",
+      "pediatric"
+    ],
+    "note": "NABH-accredited. Organ transplant centre, advanced oncology, cardiac bypass surgery."
+  },
+  {
+    "name": "Peerless Hospital & B.K. Roy Research Centre",
+    "type": "pvt",
+    "address": "360, Panchasayar, Garia, Kolkata – 700094",
+    "phone": "033-4011-4011",
+    "emergency": true,
+    "beds": 650,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "burns",
+      "obstetric",
+      "pediatric",
+      "cancer",
+      "general"
+    ],
+    "note": "Super-speciality with dedicated cardiac, neuro and burn units. 24×7 emergency."
+  },
+  {
+    "name": "Narayana Superspeciality Hospital (RTIICS)",
+    "type": "pvt",
+    "address": "124, Mukundapur, EM Bypass, Kolkata – 700099",
+    "phone": "033-7122-0000",
+    "emergency": true,
+    "beds": 670,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "transplant",
+      "orthopedic",
+      "pediatric",
+      "cancer"
+    ],
+    "note": "One of India's top cardiac surgery centres. CTVS, paediatric cardiac surgery, LVAD."
+  },
+  {
+    "name": "Belle Vue Clinic",
+    "type": "pvt",
+    "address": "9, Dr U.N. Brahmachari Street, Kolkata – 700017",
+    "phone": "033-2287-0000",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "general",
+      "obstetric"
+    ],
+    "note": "Established private hospital. Cardiology, neurology, and orthopaedic specialties."
+  },
+  {
+    "name": "Woodlands Multispeciality Hospital",
+    "type": "pvt",
+    "address": "8/5, Alipore Road, Kolkata – 700027",
+    "phone": "033-4040-1111",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "cardiac",
+      "orthopedic",
+      "neuro",
+      "general",
+      "obstetric",
+      "pediatric"
+    ],
+    "note": "Multispeciality with 24×7 emergency. Strong cardiology and orthopaedic departments."
+  },
+  {
+    "name": "BM Birla Heart Research Centre",
+    "type": "pvt",
+    "address": "1/1, National Library Avenue, Alipore, Kolkata – 700027",
+    "phone": "033-4011-7788",
+    "emergency": true,
+    "beds": 225,
+    "specialties": [
+      "cardiac"
+    ],
+    "note": "Dedicated cardiac hospital. Open-heart surgery, angioplasty, EP study, cardiac ICU."
+  },
+  {
+    "name": "ILS Hospitals Salt Lake",
+    "type": "pvt",
+    "address": "CE Block, Sector I, Salt Lake, Kolkata – 700064",
+    "phone": "033-6634-3000",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "orthopedic",
+      "general",
+      "obstetric",
+      "trauma",
+      "pediatric"
+    ],
+    "note": "24×7 emergency. Known for orthopaedics, laparoscopic surgery, and maternity care."
+  },
+  {
+    "name": "Columbia Asia Hospital Kolkata",
+    "type": "pvt",
+    "address": "Plot AA-1, New Town, Kolkata – 700156",
+    "phone": "1800-209-0002",
+    "emergency": true,
+    "beds": 170,
+    "specialties": [
+      "cardiac",
+      "orthopedic",
+      "general",
+      "obstetric",
+      "pediatric"
+    ],
+    "note": "Modern hospital in New Town. 24×7 emergency, cardiac and orthopaedic focus."
+  },
+  {
+    "name": "Bhagirathi Neotia Woman & Child Care Centre",
+    "type": "pvt",
+    "address": "New Town Action Area II, Kolkata – 700161",
+    "phone": "033-6626-3000",
+    "emergency": true,
+    "beds": 250,
+    "specialties": [
+      "obstetric",
+      "pediatric",
+      "general"
+    ],
+    "note": "Dedicated women and child care. High-risk pregnancy, NICU, fertility and neonatology."
+  },
+  {
+    "name": "Techno India DAMA Hospital",
+    "type": "pvt",
+    "address": "DG Block, Action Area I, New Town, Kolkata – 700156",
+    "phone": "033-6626-6626",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "general",
+      "trauma"
+    ],
+    "note": "Super-speciality in New Town. 24×7 emergency and ICU services."
+  },
+  {
+    "name": "Desun Hospital & Heart Institute",
+    "type": "pvt",
+    "address": "EM Bypass, Kasba, Kolkata – 700107",
+    "phone": "033-4018-8000",
+    "emergency": true,
+    "beds": 230,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "general",
+      "obstetric"
+    ],
+    "note": "Super-speciality with cardiac cath lab and 24×7 emergency."
+  },
+  {
+    "name": "Ruby General Hospital",
+    "type": "pvt",
+    "address": "Kasba Golpark, EM Bypass, Kolkata – 700107",
+    "phone": "033-6652-0000",
+    "emergency": true,
+    "beds": 250,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "general",
+      "trauma"
+    ],
+    "note": "Multispeciality hospital. Cath lab, neuro ICU, and 24×7 emergency services."
+  },
+  {
+    "name": "Bangur Institute of Neurosciences (BIN)",
+    "type": "govt",
+    "address": "52 & 54, SN Banerjee Road, Kolkata – 700014",
+    "phone": "033-2241-1611",
+    "emergency": true,
+    "beds": 580,
+    "specialties": [
+      "neuro",
+      "mental",
+      "general"
+    ],
+    "note": "Premier state neuroscience institute. Dedicated stroke unit, neurosurgery, epilepsy & psychiatry services."
+  },
+  {
+    "name": "School of Tropical Medicine (STM)",
+    "type": "govt",
+    "address": "CR Avenue, Kolkata – 700073",
+    "phone": "033-2241-5491",
+    "emergency": false,
+    "beds": 250,
+    "specialties": [
+      "infectious",
+      "general"
+    ],
+    "note": "Specialised in tropical & infectious diseases. Key reference centre for malaria, kala-azar, and parasitic infections."
+  },
+  {
+    "name": "Regional Institute of Ophthalmology (RIO)",
+    "type": "govt",
+    "address": "7/2, Kiran Shankar Roy Road, Kolkata – 700001",
+    "phone": "033-2212-5252",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "eye",
+      "general"
+    ],
+    "note": "Apex government eye hospital. Cataract, glaucoma, retina, and emergency ocular trauma services."
+  },
+  {
+    "name": "Institute of Haematology & Transfusion Medicine (IHTM)",
+    "type": "govt",
+    "address": "Medical College Campus, Kolkata – 700073",
+    "phone": "033-2212-0140",
+    "emergency": false,
+    "beds": 100,
+    "specialties": [
+      "general"
+    ],
+    "note": "Specialised in blood disorders — thalassemia, haemophilia, sickle cell. State blood bank headquarters."
+  },
+  {
+    "name": "Barasat Government Medical College & Hospital",
+    "type": "govt",
+    "address": "80, Jessore Road, Barasat, North 24 Parganas – 700124",
+    "phone": "033-2566-2124",
+    "emergency": true,
+    "beds": 700,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "neuro"
+    ],
+    "note": "Major district teaching hospital. 24×7 casualty and trauma care serving North 24 Parganas."
+  },
+  {
+    "name": "Diamond Harbour Government Medical College & Hospital",
+    "type": "govt",
+    "address": "Diamond Harbour Road, South 24 Parganas – 743331",
+    "phone": "03174-255-301",
+    "emergency": true,
+    "beds": 500,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "trauma",
+      "orthopedic"
+    ],
+    "note": "District-level medical college hospital. 24×7 emergency. Serves southern Kolkata suburbs and coastal districts."
+  },
+  {
+    "name": "ESI Hospital Sealdah",
+    "type": "govt",
+    "address": "16, Lower Range, Sealdah, Kolkata – 700014",
+    "phone": "033-2350-5252",
+    "emergency": true,
+    "beds": 350,
+    "specialties": [
+      "general",
+      "orthopedic",
+      "trauma",
+      "obstetric"
+    ],
+    "note": "ESI-insured workers facility near Sealdah. 24×7 casualty with general surgical and orthopaedic services."
+  },
+  {
+    "name": "Howrah District Hospital (Shyama Prasad Mukherjee Hospital)",
+    "type": "govt",
+    "address": "Hospital Road, Howrah – 711101",
+    "phone": "033-2638-4040",
+    "emergency": true,
+    "beds": 800,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "neuro",
+      "burns"
+    ],
+    "note": "Primary government hospital for Howrah district. 24×7 Level-II trauma centre and burn unit."
+  },
+  {
+    "name": "Jagannath Gupta Institute of Medical Sciences (JGIMS)",
+    "type": "govt",
+    "address": "Budge Budge Trunk Road, Kolkata – 700137",
+    "phone": "033-2494-3000",
+    "emergency": true,
+    "beds": 500,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "trauma"
+    ],
+    "note": "Newer government teaching hospital with modern infrastructure. 24×7 emergency and advanced OT facilities."
+  },
+  {
+    "name": "Murshidabad Medical College & Hospital",
+    "type": "govt",
+    "address": "Berhampore, Murshidabad – 742101",
+    "phone": "03482-251-001",
+    "emergency": true,
+    "beds": 600,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "District medical college. 24×7 casualty services for Murshidabad and surrounding districts."
+  },
+  {
+    "name": "Midnapore Medical College & Hospital",
+    "type": "govt",
+    "address": "Vidyasagar Road, Midnapore – 721101",
+    "phone": "03222-275-363",
+    "emergency": true,
+    "beds": 750,
+    "specialties": [
+      "general",
+      "cardiac",
+      "neuro",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "Major medical college for West Midnapore. Super-speciality block with cardiac and neuro services."
+  },
+  {
+    "name": "Cooch Behar Government Medical College & Hospital",
+    "type": "govt",
+    "address": "GBPH Road, Cooch Behar – 736101",
+    "phone": "03582-227-415",
+    "emergency": true,
+    "beds": 450,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "trauma",
+      "orthopedic"
+    ],
+    "note": "Government medical college for the northern districts. 24×7 emergency and maternity block."
+  },
+  {
+    "name": "Burdwan Medical College & Hospital",
+    "type": "govt",
+    "address": "Baburbag, Burdwan – 713104",
+    "phone": "0342-266-7722",
+    "emergency": true,
+    "beds": 1100,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "burns",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "general"
+    ],
+    "note": "Largest government hospital in the Burdwan division. Fully functional Level-I trauma and CICU."
+  },
+  {
+    "name": "North Bengal Medical College & Hospital",
+    "type": "govt",
+    "address": "Sushrutanagar, Siliguri, Darjeeling – 734012",
+    "phone": "0353-252-6330",
+    "emergency": true,
+    "beds": 900,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "burns",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "general"
+    ],
+    "note": "Apex referral hospital for North Bengal and Sikkim. 24×7 Level-I trauma and cardiac care."
+  },
+  {
+    "name": "Ramakrishna Mission Seva Pratisthan (Charitable Govt-aided)",
+    "type": "govt",
+    "address": "99, Sarat Bose Road, Kolkata – 700026",
+    "phone": "033-2466-0835",
+    "emergency": true,
+    "beds": 450,
+    "specialties": [
+      "general",
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "pediatric"
+    ],
+    "note": "Charitable mission hospital with govt aid. Highly reputed, affordable multispeciality care with 24×7 services."
+  },
+  {
+    "name": "Manipal Hospitals Kolkata (CMRI)",
+    "type": "pvt",
+    "address": "7/2, Diamond Harbour Road, Kolkata – 700027",
+    "phone": "1800-102-6744",
+    "emergency": true,
+    "beds": 510,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "orthopedic",
+      "cancer",
+      "obstetric",
+      "pediatric",
+      "transplant",
+      "general"
+    ],
+    "note": "JCI & NABH accredited. Previously CMRI — robotic surgery, bone marrow transplant, advanced cardiac care."
+  },
+  {
+    "name": "Park Clinic",
+    "type": "pvt",
+    "address": "4, Gorky Terrace, Elgin, Kolkata – 700017",
+    "phone": "033-4019-4019",
+    "emergency": true,
+    "beds": 250,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "general",
+      "cancer"
+    ],
+    "note": "Established premium hospital in south Kolkata. Known for cardiology, neurology, and surgical excellence."
+  },
+  {
+    "name": "Charnock Hospital",
+    "type": "pvt",
+    "address": "Job Charnock Road, Kolkata – 700099",
+    "phone": "033-4033-4033",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "general",
+      "trauma"
+    ],
+    "note": "NABH-accredited multispeciality hospital. Dedicated cardiac and neuro ICU, 24×7 emergency."
+  },
+  {
+    "name": "KPC Medical College & Hospital",
+    "type": "pvt",
+    "address": "1F, Poddar Road, Jadavpur, Kolkata – 700032",
+    "phone": "033-2414-9090",
+    "emergency": true,
+    "beds": 650,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "orthopedic",
+      "obstetric",
+      "pediatric",
+      "general"
+    ],
+    "note": "Large private medical college hospital. 24×7 casualty, advanced ICU, and broad super-speciality services."
+  },
+  {
+    "name": "Sunrise Hospital",
+    "type": "pvt",
+    "address": "184, Manicktala Main Road, Kolkata – 700054",
+    "phone": "033-2355-0011",
+    "emergency": true,
+    "beds": 180,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "general",
+      "obstetric"
+    ],
+    "note": "Multispeciality hospital in north Kolkata. Cardiac catheterisation lab and 24×7 emergency services."
+  },
+  {
+    "name": "Nightingale Hospital",
+    "type": "pvt",
+    "address": "11, Pretoria Street, Ballygunge, Kolkata – 700071",
+    "phone": "033-4040-9090",
+    "emergency": true,
+    "beds": 150,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "general"
+    ],
+    "note": "Premium boutique hospital in south Kolkata. Strong cardiac, neuro, and women's health services."
+  },
+  {
+    "name": "HCG Cancer Centre Kolkata",
+    "type": "pvt",
+    "address": "Plot Y-8, Block EP, Sector V, Salt Lake, Kolkata – 700091",
+    "phone": "033-4021-7500",
+    "emergency": false,
+    "beds": 100,
+    "specialties": [
+      "cancer",
+      "general"
+    ],
+    "note": "Dedicated cancer super-speciality. Chemotherapy, radiation oncology, robotic surgery, and bone marrow transplant."
+  },
+  {
+    "name": "ILS Hospitals Agartala / Dum Dum",
+    "type": "pvt",
+    "address": "DG Block, Action Area I, New Town, Kolkata – 700156",
+    "phone": "033-4818-3000",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "pediatric",
+      "general",
+      "trauma"
+    ],
+    "note": "Modern multispeciality in New Town. State-of-the-art OT, advanced cardiac unit, 24×7 emergency."
+  },
+  {
+    "name": "Calcutta Heart Clinic & Hospital",
+    "type": "pvt",
+    "address": "7, Loyd Street, Kolkata – 700016",
+    "phone": "033-2229-9900",
+    "emergency": true,
+    "beds": 150,
+    "specialties": [
+      "cardiac",
+      "general"
+    ],
+    "note": "Specialist cardiac hospital. Cath lab, cardiac surgery, pacemaker implant, and 24×7 cardiac emergency."
+  },
+  {
+    "name": "Health World Hospitals",
+    "type": "pvt",
+    "address": "2nd Floor, DN-54, Sector V, Salt Lake, Kolkata – 700091",
+    "phone": "033-6641-0101",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "general",
+      "cancer"
+    ],
+    "note": "NABH-accredited multispeciality. Robotic & laparoscopic surgery, IVF centre, advanced diagnostics."
+  },
+  {
+    "name": "Disha Eye Hospitals (Barrackpore)",
+    "type": "pvt",
+    "address": "Barrackpore Trunk Road, Barrackpore, Kolkata – 700120",
+    "phone": "033-2592-0200",
+    "emergency": true,
+    "beds": 80,
+    "specialties": [
+      "eye",
+      "general"
+    ],
+    "note": "Leading eye-care chain in North Bengal. Cataract, LASIK, vitreoretinal surgery, 24×7 eye emergency."
+  },
+  {
+    "name": "Suraksha Diagnostics & Medical Centre",
+    "type": "pvt",
+    "address": "Premises No. 35-1172, Newtown, Kolkata – 700156",
+    "phone": "1800-103-6767",
+    "emergency": false,
+    "beds": 50,
+    "specialties": [
+      "general",
+      "cardiac",
+      "neuro"
+    ],
+    "note": "Advanced diagnostics hub. MRI, PET-CT, cardiac stress tests and specialist consultations."
+  },
+  {
+    "name": "CMRI Hospital (Gorky Terrace)",
+    "type": "pvt",
+    "address": "7/2, Diamond Harbour Road, Bhowanipore, Kolkata – 700027",
+    "phone": "033-4034-0000",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "cardiac",
+      "orthopedic",
+      "general",
+      "obstetric"
+    ],
+    "note": "Established private hospital in south Kolkata. Cardiac cath lab and orthopaedic centre."
+  },
+  {
+    "name": "Rabindranath Tagore International Institute of Cardiac Sciences (RTIICS)",
+    "type": "pvt",
+    "address": "124, Mukundapur, EM Bypass, Kolkata – 700099",
+    "phone": "033-6606-0000",
+    "emergency": true,
+    "beds": 450,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "transplant",
+      "pediatric"
+    ],
+    "note": "Dedicated cardiac super-speciality. Paediatric cardiac surgery, LVAD, complex interventions."
+  },
+  {
+    "name": "SRL Diagnostics (Kolkata Hub)",
+    "type": "pvt",
+    "address": "Lord Sinha Road, Kolkata – 700071",
+    "phone": "1800-11-2345",
+    "emergency": false,
+    "beds": 0,
+    "specialties": [
+      "general"
+    ],
+    "note": "Largest diagnostics network. 24×7 sample collection, pathology, radiology, and home visits."
+  },
+  {
+    "name": "Columbia Asia Referral Hospital (Kolkata)",
+    "type": "pvt",
+    "address": "AA-1, New Town, Rajarhat, Kolkata – 700156",
+    "phone": "033-6652-9000",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "cardiac",
+      "orthopedic",
+      "obstetric",
+      "general",
+      "pediatric"
+    ],
+    "note": "International-standard care in New Town. Fully equipped ICU and 24×7 emergency."
+  },
+  {
+    "name": "AMRI Hospitals Mukundapur",
+    "type": "pvt",
+    "address": "Mukundapur, EM Bypass, Kolkata – 700099",
+    "phone": "033-4040-0000",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "cancer",
+      "obstetric",
+      "general"
+    ],
+    "note": "Third AMRI location. Advanced cardiac and cancer care wing with dedicated ICU floors."
+  },
+  {
+    "name": "The Mission Hospital Durgapur",
+    "type": "pvt",
+    "address": "Immon Kalyan Sarani, Durgapur – 713212",
+    "phone": "0343-253-7000",
+    "emergency": true,
+    "beds": 520,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "trauma",
+      "orthopedic",
+      "cancer",
+      "obstetric",
+      "pediatric",
+      "general"
+    ],
+    "note": "Largest private hospital in Durgapur. Tertiary care with Level-I trauma, cath lab, and cancer centre."
+  },
+  {
+    "name": "IQ City Medical College & Narayana Hospital",
+    "type": "pvt",
+    "address": "Sovapur, Durgapur – 713206",
+    "phone": "0343-353-5400",
+    "emergency": true,
+    "beds": 750,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "transplant",
+      "general"
+    ],
+    "note": "Super-speciality medical college hospital. Advanced cardiac surgery and organ transplant unit."
+  },
+  {
+    "name": "Asansol District Hospital",
+    "type": "govt",
+    "address": "SB Gorai Road, Asansol – 713301",
+    "phone": "0341-221-0700",
+    "emergency": true,
+    "beds": 650,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "Main government hospital for Asansol. 24×7 casualty and maternity services."
+  },
+  {
+    "name": "Bankura Sammilani Medical College & Hospital",
+    "type": "govt",
+    "address": "Lokepur, Bankura – 722102",
+    "phone": "03242-250-201",
+    "emergency": true,
+    "beds": 800,
+    "specialties": [
+      "general",
+      "cardiac",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "Major government teaching hospital for Bankura and Purulia districts."
+  },
+  {
+    "name": "Sagore Dutta Medical College & Hospital",
+    "type": "govt",
+    "address": "Kamarhati, North 24 Parganas – 700058",
+    "phone": "033-2564-9393",
+    "emergency": true,
+    "beds": 500,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "neuro"
+    ],
+    "note": "Govt medical college serving densely populated north Kolkata suburbs."
+  },
+  {
+    "name": "Calcutta Medical Research Institute (CMRI)",
+    "type": "pvt",
+    "address": "7/2, Diamond Harbour Road, Kolkata – 700027",
+    "phone": "033-4034-1111",
+    "emergency": true,
+    "beds": 410,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "cancer",
+      "general"
+    ],
+    "note": "Pioneer private hospital. Well-known for orthopaedics, cardiac surgery, and neuroradiology."
+  },
+  {
+    "name": "Kothari Medical Centre",
+    "type": "pvt",
+    "address": "8/3, Alipore Road, Kolkata – 700027",
+    "phone": "033-2456-7777",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "cardiac",
+      "general",
+      "orthopedic",
+      "obstetric"
+    ],
+    "note": "Established south Kolkata hospital near Alipore. Cardiology, orthopaedics and general surgery."
+  },
+  {
+    "name": "Hinduja Clinic (Kolkata)",
+    "type": "pvt",
+    "address": "38B, Gariahat Road, Kolkata – 700029",
+    "phone": "033-4035-6000",
+    "emergency": true,
+    "beds": 120,
+    "specialties": [
+      "general",
+      "cardiac",
+      "orthopedic",
+      "obstetric"
+    ],
+    "note": "Trusted neighbourhood hospital in Gariahat. Comprehensive OPD, diagnostics and 24×7 emergency."
+  },
+  {
+    "name": "Fortis Hospital Kolkata (Kasba)",
+    "type": "pvt",
+    "address": "Kasba Industrial Estate, EM Bypass, Kolkata – 700107",
+    "phone": "033-6628-1234",
+    "emergency": true,
+    "beds": 250,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "trauma",
+      "general",
+      "obstetric"
+    ],
+    "note": "Full-service Fortis unit with cath lab, neuro ICU and 24×7 emergency."
+  },
+  {
+    "name": "Exide Care Multi-speciality Hospital",
+    "type": "pvt",
+    "address": "EM Bypass Extension, Mukundapur, Kolkata – 700099",
+    "phone": "033-4040-5555",
+    "emergency": true,
+    "beds": 180,
+    "specialties": [
+      "cardiac",
+      "general",
+      "orthopedic",
+      "obstetric"
+    ],
+    "note": "Modern multispeciality with advanced diagnostics and intensive care."
+  },
+  {
+    "name": "Eastern Command Military Hospital",
+    "type": "govt",
+    "address": "Alipore, Kolkata – 700027",
+    "phone": "033-2479-4750",
+    "emergency": true,
+    "beds": 600,
+    "specialties": [
+      "trauma",
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "general"
+    ],
+    "note": "Armed Forces hospital. Trauma centre and advanced care for defence personnel and dependants."
+  },
+  {
+    "name": "Bansberia Sub-divisional Hospital",
+    "type": "govt",
+    "address": "Bansberia, Hooghly – 712502",
+    "phone": "033-2632-0025",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "trauma"
+    ],
+    "note": "Government sub-divisional hospital. 24×7 emergency and maternity services for Hooghly district."
+  },
+  {
+    "name": "Serampore Sub-divisional Hospital",
+    "type": "govt",
+    "address": "Serampore, Hooghly – 712201",
+    "phone": "033-2633-2380",
+    "emergency": true,
+    "beds": 250,
+    "specialties": [
+      "general",
+      "obstetric",
+      "trauma",
+      "orthopedic"
+    ],
+    "note": "Government hospital for Serampore. General surgery, orthopaedics, and 24×7 casualty."
+  },
+  {
+    "name": "Naihati Sub-divisional Hospital",
+    "type": "govt",
+    "address": "Station Road, Naihati, North 24 Parganas – 743165",
+    "phone": "033-2581-0029",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "general",
+      "obstetric",
+      "trauma",
+      "pediatric"
+    ],
+    "note": "Government sub-divisional hospital serving the Naihati-Bhatpara belt. 24×7 emergency."
+  },
+  {
+    "name": "Krishnanagar Government Medical College",
+    "type": "govt",
+    "address": "Thanapara, Krishnanagar, Nadia – 741101",
+    "phone": "03472-251-001",
+    "emergency": true,
+    "beds": 600,
+    "specialties": [
+      "general",
+      "cardiac",
+      "neuro",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "Government medical college for Nadia district. Super-speciality block with 24×7 casualty."
+  },
+  {
+    "name": "Raiganj Government Medical College & Hospital",
+    "type": "govt",
+    "address": "Raiganj, Uttar Dinajpur – 733134",
+    "phone": "03523-250-201",
+    "emergency": true,
+    "beds": 500,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "trauma",
+      "orthopedic"
+    ],
+    "note": "Medical college for north Bengal's Uttar Dinajpur district. 24×7 emergency services."
+  },
+  {
+    "name": "Jalpaiguri Government Medical College",
+    "type": "govt",
+    "address": "Jalpaiguri – 735101",
+    "phone": "03561-223-600",
+    "emergency": true,
+    "beds": 600,
+    "specialties": [
+      "general",
+      "cardiac",
+      "neuro",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "trauma"
+    ],
+    "note": "Government medical college for Jalpaiguri and Alipurduar districts. Modern facilities."
+  },
+  {
+    "name": "Suri Sadar Hospital",
+    "type": "govt",
+    "address": "Suri, Birbhum – 731101",
+    "phone": "03462-251-340",
+    "emergency": true,
+    "beds": 400,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "District government hospital serving Birbhum. 24×7 casualty and maternity services."
+  },
+  {
+    "name": "Contai Sub-divisional Hospital",
+    "type": "govt",
+    "address": "Contai, Purba Medinipur – 721401",
+    "phone": "03220-255-303",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "general",
+      "obstetric",
+      "trauma",
+      "pediatric"
+    ],
+    "note": "Government sub-divisional hospital for coastal Purba Medinipur. 24×7 emergency."
+  },
+  {
+    "name": "Tamralipta Government Medical College",
+    "type": "govt",
+    "address": "Tamluk, Purba Medinipur – 721636",
+    "phone": "03228-266-200",
+    "emergency": true,
+    "beds": 500,
+    "specialties": [
+      "general",
+      "cardiac",
+      "neuro",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "New medical college serving Tamluk. Full 24×7 casualty and modern ICU facilities."
+  },
+  {
+    "name": "Bardhaman District Hospital",
+    "type": "govt",
+    "address": "Burdwan, Purba Bardhaman – 713101",
+    "phone": "0342-260-7000",
+    "emergency": true,
+    "beds": 600,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic",
+      "neuro"
+    ],
+    "note": "Main district hospital for Purba Bardhaman. 24×7 emergency and burn care."
+  },
+  {
+    "name": "Purulia Government Medical College",
+    "type": "govt",
+    "address": "Purulia – 723101",
+    "phone": "03252-222-301",
+    "emergency": true,
+    "beds": 600,
+    "specialties": [
+      "general",
+      "cardiac",
+      "neuro",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "Medical college for Purulia. Serving tribal and rural populations with full emergency care."
+  },
+  {
+    "name": "South Bengal State University Hospital",
+    "type": "govt",
+    "address": "Baruipur, South 24 Parganas – 743610",
+    "phone": "033-2494-4000",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "trauma"
+    ],
+    "note": "Government referral hospital for South 24 Parganas suburbs. 24×7 emergency."
+  },
+  {
+    "name": "Medica Oncology (Mukundapur)",
+    "type": "pvt",
+    "address": "127, Mukundapur, EM Bypass, Kolkata – 700099",
+    "phone": "033-4040-3333",
+    "emergency": false,
+    "beds": 100,
+    "specialties": [
+      "cancer",
+      "general"
+    ],
+    "note": "Dedicated oncology wing of Medica. PET-CT, linear accelerator, chemotherapy and palliative care."
+  },
+  {
+    "name": "Care & Cure Hospital (Rajarhat)",
+    "type": "pvt",
+    "address": "New Town, Rajarhat, Kolkata – 700135",
+    "phone": "033-2570-0666",
+    "emergency": true,
+    "beds": 120,
+    "specialties": [
+      "general",
+      "orthopedic",
+      "obstetric",
+      "cardiac"
+    ],
+    "note": "Neighbourhood multispeciality hospital in Rajarhat. 24×7 emergency and ICU."
+  },
+  {
+    "name": "Suri Sristi Hospital",
+    "type": "pvt",
+    "address": "Suri, Birbhum – 731101",
+    "phone": "03462-254-444",
+    "emergency": true,
+    "beds": 100,
+    "specialties": [
+      "general",
+      "obstetric",
+      "orthopedic",
+      "trauma"
+    ],
+    "note": "Private hospital serving Birbhum district. 24×7 emergency and maternity care."
+  },
+  {
+    "name": "Durgapur Steel Plant Hospital (DSP)",
+    "type": "govt",
+    "address": "Steel Township, Durgapur – 713205",
+    "phone": "0343-255-0011",
+    "emergency": true,
+    "beds": 600,
+    "specialties": [
+      "general",
+      "cardiac",
+      "orthopedic",
+      "obstetric",
+      "trauma"
+    ],
+    "note": "SAIL-run hospital. Full emergency, ICU, and specialist OPD for Steel City and surroundings."
+  },
+  {
+    "name": "Memari District Hospital",
+    "type": "govt",
+    "address": "Memari, Purba Bardhaman – 713146",
+    "phone": "0342-276-0025",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "general",
+      "obstetric",
+      "trauma",
+      "pediatric"
+    ],
+    "note": "Sub-divisional government hospital serving central Bardhaman. 24×7 emergency."
+  },
+  {
+    "name": "Bolpur Sub-divisional Hospital",
+    "type": "govt",
+    "address": "Bolpur, Birbhum – 731204",
+    "phone": "03463-252-063",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "general",
+      "obstetric",
+      "trauma",
+      "pediatric"
+    ],
+    "note": "Government sub-divisional hospital in Shantiniketan area. 24×7 emergency and maternity."
+  },
+  {
+    "name": "Haldia Sub-divisional Hospital",
+    "type": "govt",
+    "address": "Haldia, Purba Medinipur – 721657",
+    "phone": "03224-252-281",
+    "emergency": true,
+    "beds": 250,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric"
+    ],
+    "note": "Government hospital for the Haldia industrial belt. 24×7 emergency."
+  },
+  {
+    "name": "Siliguri District Hospital",
+    "type": "govt",
+    "address": "Khaprail More, Siliguri, Darjeeling – 734001",
+    "phone": "0353-252-4564",
+    "emergency": true,
+    "beds": 400,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "Main district hospital for Siliguri. 24×7 emergency and maternity services."
+  },
+  {
+    "name": "North Bengal Clinic (Siliguri)",
+    "type": "pvt",
+    "address": "Vivekananda Road, Siliguri – 734001",
+    "phone": "0353-252-8181",
+    "emergency": true,
+    "beds": 150,
+    "specialties": [
+      "cardiac",
+      "general",
+      "orthopedic",
+      "obstetric",
+      "neuro"
+    ],
+    "note": "Leading private hospital in Siliguri. Cardiac cath lab and 24×7 multispeciality emergency."
+  },
+  {
+    "name": "ESI Medical College Kolkata (Joka)",
+    "type": "govt",
+    "address": "Diamond Harbour Road, Joka, Kolkata – 700104",
+    "phone": "033-2467-0100",
+    "emergency": true,
+    "beds": 500,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "ESI medical college in south Kolkata. 24×7 emergency and specialist OPD services."
+  },
+  {
+    "name": "Rampurhat Government Medical College",
+    "type": "govt",
+    "address": "Rampurhat, Birbhum – 731224",
+    "phone": "03461-253-200",
+    "emergency": true,
+    "beds": 500,
+    "specialties": [
+      "general",
+      "obstetric",
+      "pediatric",
+      "trauma",
+      "orthopedic"
+    ],
+    "note": "Government medical college for Birbhum. Modern ICU and 24×7 casualty."
+  },
+  {
+    "name": "Bishnupur District Hospital",
+    "type": "govt",
+    "address": "Bishnupur, Bankura – 722122",
+    "phone": "03244-255-052",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "general",
+      "obstetric",
+      "trauma",
+      "pediatric"
+    ],
+    "note": "Government sub-divisional hospital for Bishnupur. 24×7 emergency and maternity services."
+  },
+  {
+    "name": "Malda Medical College & Hospital",
+    "type": "govt",
+    "address": "English Bazar, Malda – 732101",
+    "phone": "03512-221-205",
+    "emergency": true,
+    "beds": 700,
+    "specialties": [
+      "general",
+      "cardiac",
+      "neuro",
+      "trauma",
+      "obstetric",
+      "pediatric",
+      "orthopedic"
+    ],
+    "note": "Medical college for Malda district. 24×7 emergency and super-speciality block."
+  },
+  {
+    "name": "Islampur Sub-divisional Hospital",
+    "type": "govt",
+    "address": "Islampur, Uttar Dinajpur – 733202",
+    "phone": "03526-257-028",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "general",
+      "obstetric",
+      "trauma",
+      "pediatric"
+    ],
+    "note": "Government hospital for Islampur sub-division. 24×7 emergency and delivery services."
+  },
+  {
+    "name": "Panchet Hill Colony Hospital (DAVC)",
+    "type": "govt",
+    "address": "Panchet, Purulia – 723131",
+    "phone": "0341-234-0001",
+    "emergency": true,
+    "beds": 150,
+    "specialties": [
+      "general",
+      "trauma",
+      "obstetric"
+    ],
+    "note": "DVC-run hospital for remote Purulia-Dhanbad corridor. 24×7 emergency and general services."
+  },
+  {
+    "name": "Durgapur Mission Hospital",
+    "type": "pvt",
+    "address": "Bidhan Nagar, Durgapur – 713212",
+    "phone": "0343-254-3300",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "general"
+    ],
+    "note": "Charitable private hospital in Durgapur. 24×7 emergency with cardiac and orthopaedic focus."
+  },
+  {
+    "name": "ESI Hospital Uluberia",
+    "type": "govt",
+    "address": "Uluberia, Howrah – 711315",
+    "phone": "03212-220-200",
+    "emergency": true,
+    "beds": 250,
+    "specialties": [
+      "general",
+      "orthopedic",
+      "obstetric",
+      "trauma"
+    ],
+    "note": "ESI hospital for Uluberia industrial belt. 24×7 casualty with general and obstetric services."
+  },
+  {
+    "name": "Howrah Multispeciality Hospital",
+    "type": "pvt",
+    "address": "Dobson Road, Howrah – 711101",
+    "phone": "033-2638-1000",
+    "emergency": true,
+    "beds": 150,
+    "specialties": [
+      "cardiac",
+      "general",
+      "orthopedic",
+      "obstetric",
+      "trauma"
+    ],
+    "note": "Private multispeciality hospital in Howrah city. Cardiac care and 24×7 emergency."
+  },
+  {
+    "name": "B.R. Singh Railway Hospital",
+    "type": "govt",
+    "address": "Sealdah, Kolkata – 700014",
+    "phone": "033-2350-7150",
+    "emergency": true,
+    "beds": 300,
+    "specialties": [
+      "general",
+      "trauma",
+      "orthopedic",
+      "cardiac",
+      "obstetric"
+    ],
+    "note": "Eastern Railway Hospital. Comprehensive care for railway employees and dependants, 24×7 emergency."
+  },
+  {
+    "name": "Command Hospital (Eastern Command)",
+    "type": "govt",
+    "address": "Alipore, Kolkata – 700027",
+    "phone": "033-2479-4750",
+    "emergency": true,
+    "beds": 700,
+    "specialties": [
+      "trauma",
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "general",
+      "burns"
+    ],
+    "note": "Advanced armed forces hospital. Trauma surgery, cardiac care and comprehensive military healthcare."
+  },
+  {
+    "name": "Netaji Subhash Chandra Bose Cancer Research Institute",
+    "type": "pvt",
+    "address": "Thakurpukur, Kolkata – 700063",
+    "phone": "033-2462-3457",
+    "emergency": false,
+    "beds": 200,
+    "specialties": [
+      "cancer",
+      "general"
+    ],
+    "note": "Dedicated cancer hospital. Surgical oncology, radiotherapy, and chemotherapy services in south Kolkata."
+  },
+  {
+    "name": "CMRI Hospital Burdwan",
+    "type": "pvt",
+    "address": "Near Bus Stand, Burdwan – 713101",
+    "phone": "0342-269-0001",
+    "emergency": true,
+    "beds": 150,
+    "specialties": [
+      "cardiac",
+      "general",
+      "orthopedic",
+      "obstetric"
+    ],
+    "note": "Private multispeciality hospital for Burdwan city. Cardiac cath lab and 24×7 emergency."
+  },
+  {
+    "name": "Peerless Nagar Hospital",
+    "type": "pvt",
+    "address": "Noapara, Kolkata – 700090",
+    "phone": "033-2531-2060",
+    "emergency": true,
+    "beds": 100,
+    "specialties": [
+      "general",
+      "orthopedic",
+      "obstetric",
+      "trauma"
+    ],
+    "note": "Community hospital in north Kolkata. 24×7 emergency and OPD services."
+  },
+  {
+    "name": "Medica North Bengal Clinic",
+    "type": "pvt",
+    "address": "Siliguri, West Bengal – 734001",
+    "phone": "0353-401-1000",
+    "emergency": true,
+    "beds": 200,
+    "specialties": [
+      "cardiac",
+      "neuro",
+      "orthopedic",
+      "obstetric",
+      "cancer",
+      "general"
+    ],
+    "note": "Medica Group hospital in Siliguri. Cardiac cath lab, 24×7 emergency and super-speciality OPD."
+  }
+]

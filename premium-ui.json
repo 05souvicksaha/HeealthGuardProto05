@@ -1,0 +1,26 @@
+{
+  "profile": "product-admin",
+  "sourceRoots": ["src"],
+  "locale": "en-IN",
+  "canonicalMap": "UX-CONTRACT.md",
+  "requiredCapabilities": ["Select/Listbox", "Date", "Form", "Scrollbar", "Toast", "CRUD"],
+  "ownership": {
+    "Select/Listbox": "native",
+    "Date": "native",
+    "Form": "shared FormField conventions",
+    "CRUD": "authored",
+    "Dialog": "src/components/Dialog.tsx",
+    "FileUpload": "src/pages/MyHealthPage.tsx",
+    "Auth/OTP": "src/pages/LoginPage.tsx",
+    "Scrollbar": "src/styles.css",
+    "Toast": "src/context/AppContext.tsx",
+    "E2E": "e2e/critical-flows.spec.ts"
+  },
+  "requiredCommands": ["typecheck", "lint", "build", "unit"],
+  "commands": {
+    "typecheck": "npm run typecheck",
+    "lint": "npm run lint",
+    "build": "npm run build",
+    "unit": "npm run test"
+  }
+}

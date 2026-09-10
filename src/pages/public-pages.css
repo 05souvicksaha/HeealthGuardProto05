@@ -1,0 +1,119 @@
+.public-page-header {
+  position: relative;
+  z-index: 5;
+  width: min(100% - 64px, 1500px);
+  min-height: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(27, 93, 96, .14);
+}
+
+.public-page-header .brand { min-height: 0; padding: 0; }
+.public-page-header .healthguard-logo { width: 174px; }
+.public-page-header nav { display: flex; align-items: center; gap: clamp(12px, 2vw, 28px); }
+.public-page-header nav a { min-height: 44px; display: inline-flex; align-items: center; gap: 7px; padding: 0 4px; color: #25494d; font-size: var(--font-size-sm); font-weight: 750; transition: color var(--motion-control) var(--ease-standard), transform var(--motion-fast) var(--ease-standard); }
+.public-page-header nav a:hover { color: #076b73; transform: translateY(-1px); }
+.public-page-header nav a:active { transform: translateY(0); }
+.public-page-header nav svg { width: 16px; height: 16px; }
+.public-page-header .public-page-login { padding: 0 16px; border-radius: var(--radius-control); color: #fff; background: #138b8d; box-shadow: 0 10px 22px rgba(18, 117, 121, .18); }
+.public-page-header .public-page-login:hover { color: #fff; background: #076b73; }
+
+.about-public-page,
+.emergency-support-public-page {
+  position: relative;
+  min-height: 100vh;
+  overflow: clip;
+  color: #15353a;
+  background-color: #f9fcf9;
+  background-image:
+    linear-gradient(rgba(35, 126, 128, .085) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(35, 126, 128, .085) 1px, transparent 1px),
+    radial-gradient(circle at 5% 38%, rgba(63, 151, 151, .09), transparent 25%);
+  background-size: 24px 24px, 24px 24px, auto;
+  animation: public-page-enter var(--motion-page) var(--ease-standard) both;
+}
+
+.about-team { position: relative; z-index: 1; width: min(100% - 96px, 1320px); margin: 0 auto; padding: clamp(70px, 8vw, 112px) 0 96px; }
+.about-team-heading { max-width: 820px; margin-bottom: 48px; }
+.about-team-heading > span { display: block; margin-bottom: 12px; color: #0b7880; font-size: var(--font-size-xs); font-weight: 850; letter-spacing: .2em; text-transform: uppercase; }
+.about-team-heading h1 { margin: 0 0 7px; color: #155158; font-family: "Bahnschrift SemiCondensed", "Arial Narrow", "Segoe UI Variable Display", sans-serif; font-size: clamp(2.75rem, 5vw, 4.25rem); font-weight: 700; line-height: .96; letter-spacing: -.045em; }
+.about-team-heading p { margin: 16px 0 0; color: #568187; font-size: var(--font-size-base); line-height: 1.7; }
+.about-team-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+.about-developer-card { --member-delay: 0ms; position: relative; min-height: 310px; display: grid; place-items: center; align-content: center; gap: 20px; padding: 30px 24px 24px; overflow: hidden; border: 1px solid rgba(57, 125, 128, .24); border-radius: var(--radius-feature); background: rgba(255, 255, 255, .92); box-shadow: 0 14px 34px rgba(28, 82, 84, .07); animation: developer-card-enter 420ms var(--ease-standard) var(--member-delay) both; transition: transform var(--motion-control) var(--ease-standard), border-color var(--motion-control) var(--ease-standard), box-shadow var(--motion-control) var(--ease-standard); }
+.about-developer-card::after { content: ""; position: absolute; right: 0; bottom: 0; width: 92px; height: 4px; background: linear-gradient(90deg, transparent, #28aeb0); }
+.about-developer-card:nth-child(2) { --member-delay: 70ms; }
+.about-developer-card:nth-child(3) { --member-delay: 140ms; }
+.about-developer-card:nth-child(4) { --member-delay: 210ms; }
+.about-developer-card:nth-child(5) { --member-delay: 280ms; }
+.about-developer-card:nth-child(6) { --member-delay: 350ms; }
+.about-developer-card:hover { transform: translateY(-4px); border-color: rgba(16, 153, 158, .5); box-shadow: 0 20px 44px rgba(28, 82, 84, .12); }
+
+.about-developer-photo-frame { position: relative; width: 176px; height: 176px; }
+.about-developer-photo-crop { width: 100%; height: 100%; overflow: hidden; border: 3px solid rgba(29, 171, 173, .64); border-radius: 50%; background: #e9f4f2; box-shadow: inset 0 0 0 6px rgba(255,255,255,.75), 0 14px 30px rgba(31, 114, 117, .18); }
+.about-developer-photo-frame::before,
+.about-developer-photo-frame::after { content: ""; position: absolute; top: 56px; width: 31px; height: 64px; border-block: 2px solid #46b9bb; pointer-events: none; }
+.about-developer-photo-frame::before { right: calc(100% + 10px); border-left: 2px solid #46b9bb; border-radius: 30px 0 0 30px; }
+.about-developer-photo-frame::after { left: calc(100% + 10px); border-right: 2px solid #46b9bb; border-radius: 0 30px 30px 0; }
+.about-developer-portrait { width: 100%; height: 100%; display: block; object-fit: cover; scale: var(--portrait-scale, 1); transition: filter var(--motion-control) var(--ease-standard), scale var(--motion-control) var(--ease-standard); }
+.about-developer-card:hover .about-developer-portrait { filter: saturate(1.04) contrast(1.02); scale: calc(var(--portrait-scale, 1) + .025); }
+.about-developer-copy { width: 100%; text-align: center; }
+.about-developer-copy span { display: inline-flex; align-items: center; gap: 7px; color: #397479; font-size: var(--font-size-xs); font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.about-developer-copy span svg { width: 15px; height: 15px; }
+.about-developer-copy h2 { margin: 7px 0 0; color: #174d54; font-size: var(--font-size-lg); line-height: 1.2; }
+.about-public-atmosphere { position: absolute; inset: 0; pointer-events: none; }
+.about-public-atmosphere svg:first-child { position: absolute; top: 105px; right: 7%; width: 90px; height: 90px; color: rgba(25, 137, 140, .17); }
+.about-public-atmosphere svg:last-child { position: absolute; top: 43%; right: 27%; width: 68px; height: 68px; color: rgba(25, 137, 140, .08); animation: atmosphere-drift 7s ease-in-out infinite; }
+
+.emergency-support-public-page { color: var(--text); background: var(--canvas); }
+.emergency-support-public-page .public-page-header { border-color: var(--border); }
+.emergency-support-public-page .public-page-header nav a { color: var(--text-muted); }
+.emergency-support-public-page .public-page-header nav a:hover { color: var(--primary-strong); }
+.emergency-support-public-page .public-page-header .public-page-login { color: #fff; }
+.public-emergency-directory > .first-aid-page { min-height: auto; padding-top: clamp(46px, 6vw, 72px); }
+.public-emergency-footer { width: min(100% - 64px, 1496px); min-height: 120px; display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 28px; margin: 24px auto 0; padding: 28px 0 38px; border-top: 1px solid var(--border); color: var(--text-muted); }
+.public-emergency-footer .brand { min-height: 0; padding: 0; }
+.public-emergency-footer .healthguard-logo { width: 150px; }
+.public-emergency-footer p { max-width: 680px; margin: 0; font-size: var(--font-size-sm); }
+.public-emergency-footer > a { color: var(--primary-strong); font-size: var(--font-size-sm); font-weight: 750; }
+
+@keyframes public-page-enter { from { opacity: 0; } to { opacity: 1; } }
+@keyframes developer-card-enter { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes developer-piece-drop {
+  0% { opacity: 0; transform: translateY(-24px) scale(.97); }
+  72% { opacity: 1; transform: translateY(3px) scale(1); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+@keyframes atmosphere-drift { 0%, 100% { transform: translateY(-12px) rotate(-6deg); } 50% { transform: translateY(12px) rotate(6deg); } }
+
+@media (max-width: 780px) {
+  .public-page-header { width: min(100% - 32px, 680px); }
+  .public-page-header nav { gap: 7px; }
+  .public-page-header nav a:not(.public-page-login):not(.public-page-home) { display: none; }
+  .about-team { width: min(100% - 36px, 680px); padding-top: 58px; }
+  .about-team-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .about-public-atmosphere svg:last-child { display: none; }
+  .public-emergency-footer { width: min(100% - 36px, 680px); grid-template-columns: 1fr; gap: 14px; }
+}
+
+@media (max-width: 480px) {
+  .public-page-header .healthguard-logo { width: 142px; }
+  .public-page-header .public-page-home { font-size: 0; gap: 0; }
+  .public-page-header .public-page-home svg { width: 20px; height: 20px; }
+  .public-page-header .public-page-login { padding-inline: 12px; }
+  .about-team-heading h1 { font-size: 2.7rem; }
+  .about-team-grid { grid-template-columns: 1fr; }
+  .about-developer-card { min-height: 292px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .about-public-page,
+  .emergency-support-public-page,
+  .about-developer-card,
+  .about-public-atmosphere svg:last-child { animation: none; opacity: 1; }
+  .public-page-header nav a,
+  .about-developer-card,
+  .about-developer-portrait { transition: none; }
+}

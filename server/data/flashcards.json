@@ -1,0 +1,812 @@
+[
+  {
+    "q": "What does FAST stand for in stroke recognition?",
+    "a": "Face drooping, Arm weakness, Speech difficulty, Time to call 112",
+    "cat": "cardiac"
+  },
+  {
+    "q": "How deep should chest compressions be in adult CPR?",
+    "a": "2 to 2.4 inches (5–6 cm) at a rate of 100–120 compressions per minute",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What dose of aspirin is given in a suspected heart attack?",
+    "a": "325mg chewed (not swallowed whole) — only if conscious, not allergic, no contraindications",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What is Beck's Triad in cardiac tamponade?",
+    "a": "Low blood pressure, distended neck veins, and muffled/quiet heart sounds",
+    "cat": "cardiac"
+  },
+  {
+    "q": "At what BP reading is a hypertensive crisis defined?",
+    "a": "Systolic >180 mmHg or diastolic >120 mmHg, especially with end-organ symptoms",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What vagal manoeuvre can terminate SVT?",
+    "a": "Valsalva manoeuvre — bear down hard for 10–15 seconds, or blow forcefully into a syringe",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What is the \"window period\" for TPA use in ischaemic stroke?",
+    "a": "Within 4.5 hours of symptom onset — time is critical, note exact onset time",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What is the ratio of compressions to breaths in adult CPR?",
+    "a": "30 compressions : 2 rescue breaths. Hands-only CPR if untrained.",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What is the Heimlich manoeuvre used for?",
+    "a": "Relieving severe choking (airway obstruction) in adults and children over 1 year",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What are signs of tension pneumothorax?",
+    "a": "Absent breath sounds on one side, tracheal deviation, hypotension, distended neck veins",
+    "cat": "respiratory"
+  },
+  {
+    "q": "How do you manage a sucking chest wound?",
+    "a": "3-sided occlusive dressing (leave one side open as a flutter valve) — never seal all 4 sides",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What is \"silent chest\" in asthma, and why is it dangerous?",
+    "a": "No wheeze despite severe distress — means almost zero air movement. Imminent respiratory arrest.",
+    "cat": "respiratory"
+  },
+  {
+    "q": "Why must COPD patients NOT receive high-flow oxygen?",
+    "a": "They rely on low O₂ to drive breathing — high flow can suppress their respiratory drive and cause apnoea",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What does tripod position indicate?",
+    "a": "Severe respiratory distress — patient leans forward on arms to use accessory muscles to breathe",
+    "cat": "respiratory"
+  },
+  {
+    "q": "When should you NOT remove an impaled object?",
+    "a": "Never — stabilise it in place with bulky dressings. Removal can cause catastrophic haemorrhage.",
+    "cat": "trauma"
+  },
+  {
+    "q": "When is a tourniquet indicated?",
+    "a": "Limb bleeding not controlled by direct pressure. Apply 2–3 inches above wound. Note the time.",
+    "cat": "trauma"
+  },
+  {
+    "q": "What is the recovery position used for?",
+    "a": "Unconscious but breathing patients — keeps airway open and prevents aspiration",
+    "cat": "trauma"
+  },
+  {
+    "q": "What is the difference between open and closed fractures?",
+    "a": "Open (compound): bone pierces skin — high infection risk. Closed: skin intact. Both require immobilisation.",
+    "cat": "trauma"
+  },
+  {
+    "q": "What are the signs of a base of skull fracture?",
+    "a": "Battle's sign (bruising behind ears), raccoon eyes (periorbital bruising), CSF from nose or ears",
+    "cat": "trauma"
+  },
+  {
+    "q": "What is the \"golden hour\" in trauma?",
+    "a": "The first 60 minutes after major trauma when definitive surgical care gives the best chance of survival",
+    "cat": "trauma"
+  },
+  {
+    "q": "How long should you cool a burn with water?",
+    "a": "20–30 minutes with cool (not cold, not iced) running water",
+    "cat": "burns"
+  },
+  {
+    "q": "What is the Parkland formula for burns?",
+    "a": "4ml × body weight (kg) × % BSA burned; give half in first 8 hours",
+    "cat": "burns"
+  },
+  {
+    "q": "What is the Rule of Nines for estimating burn surface area?",
+    "a": "Head=9%, each arm=9%, chest=18%, back=18%, each leg=18%, perineum=1%",
+    "cat": "burns"
+  },
+  {
+    "q": "What burns should NOT be cooled with water?",
+    "a": "Chemical burns (use dry decontamination first), electrical burns, and burns covering >20% BSA (hypothermia risk)",
+    "cat": "burns"
+  },
+  {
+    "q": "What are the signs of an airway burn?",
+    "a": "Singed nasal hairs, hoarse voice, facial burns, sooty sputum — intubate early before airway swells shut",
+    "cat": "burns"
+  },
+  {
+    "q": "At what seizure duration should you call 112?",
+    "a": "Any seizure lasting more than 5 minutes (status epilepticus)",
+    "cat": "neuro"
+  },
+  {
+    "q": "What are the warning signs of meningitis?",
+    "a": "Severe headache, neck stiffness, photophobia, fever, non-blanching rash (purpura)",
+    "cat": "neuro"
+  },
+  {
+    "q": "What does a non-blanching rash indicate in a febrile patient?",
+    "a": "Possible meningococcal septicaemia — call 112 immediately. Do NOT wait.",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is the Glasgow Coma Scale (GCS) and what score indicates coma?",
+    "a": "GCS measures Eye (1–4), Verbal (1–5), Motor (1–6) responses. Score ≤8 indicates coma.",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is Cushing's triad, and what does it indicate?",
+    "a": "Hypertension + bradycardia + irregular breathing — indicates dangerously raised intracranial pressure",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is the correct positioning for a suspected spinal injury patient?",
+    "a": "Keep in-line neutral spinal immobilisation at all times — do not flex, extend, or rotate the spine",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is the first-line treatment for anaphylaxis?",
+    "a": "Epinephrine (EpiPen) 0.3mg IM into the outer thigh — NOT antihistamines",
+    "cat": "allergy"
+  },
+  {
+    "q": "What should you do after giving an EpiPen for anaphylaxis?",
+    "a": "Call 112 immediately — biphasic reaction can occur up to 12 hours later. Always go to hospital.",
+    "cat": "allergy"
+  },
+  {
+    "q": "Where is the EpiPen injected and why?",
+    "a": "Outer mid-thigh — large muscle with good blood supply for rapid absorption; can be given through clothing",
+    "cat": "allergy"
+  },
+  {
+    "q": "What is a biphasic anaphylactic reaction?",
+    "a": "A second wave of anaphylaxis occurring 1–12 hours after the initial reaction — reason all patients must go to hospital",
+    "cat": "allergy"
+  },
+  {
+    "q": "What are the 4 systems involved in anaphylaxis?",
+    "a": "Skin (hives/swelling), Respiratory (wheeze/stridor), Cardiovascular (low BP), GI (vomiting) — 2 or more = anaphylaxis",
+    "cat": "allergy"
+  },
+  {
+    "q": "What are signs of severe dehydration in an adult?",
+    "a": "Sunken eyes, no urination >8 hours, dry mouth, dizziness on standing, confusion",
+    "cat": "gastro"
+  },
+  {
+    "q": "What is the oral rehydration solution (ORS) recipe?",
+    "a": "1 litre clean water + 6 teaspoons sugar + ½ teaspoon salt — WHO standard formula",
+    "cat": "gastro"
+  },
+  {
+    "q": "What GI bleeding signs require immediate emergency care?",
+    "a": "Vomiting bright red blood, black tarry stools (melaena), or large volumes of fresh blood per rectum",
+    "cat": "gastro"
+  },
+  {
+    "q": "What are McBurney's point and Rovsing's sign?",
+    "a": "Both indicate appendicitis — pain at right iliac fossa and pain there when pressing the left side respectively",
+    "cat": "gastro"
+  },
+  {
+    "q": "What does RICE stand for for sprains?",
+    "a": "Rest, Ice, Compression, Elevation — applied immediately to reduce swelling",
+    "cat": "musculo"
+  },
+  {
+    "q": "What are the 5 Ps of compartment syndrome?",
+    "a": "Pain (especially on passive stretch), Pressure, Paraesthesia, Pallor, Pulselessness — surgical emergency",
+    "cat": "musculo"
+  },
+  {
+    "q": "How do you splint a fracture in the field?",
+    "a": "Splint in the position found — immobilise the joint above and below the fracture. Do not attempt to realign.",
+    "cat": "musculo"
+  },
+  {
+    "q": "What is the Ottawa Ankle Rule?",
+    "a": "X-ray needed if pain at malleolus + unable to bear weight for 4 steps, or bony tenderness at posterior edges",
+    "cat": "musculo"
+  },
+  {
+    "q": "What is the correct infant choking technique?",
+    "a": "5 back blows + 5 chest thrusts alternating — NEVER abdominal thrusts on infants under 1 year",
+    "cat": "peds"
+  },
+  {
+    "q": "What is the normal respiratory rate for a 1-year-old?",
+    "a": "24–40 breaths per minute. Fast breathing in a child is a serious warning sign.",
+    "cat": "peds"
+  },
+  {
+    "q": "At what temperature is a fever in a neonate (under 28 days) an emergency?",
+    "a": "Any temp ≥38°C (100.4°F) in a neonate is a medical emergency — call 112 immediately",
+    "cat": "peds"
+  },
+  {
+    "q": "What is the \"AVPU\" scale?",
+    "a": "Alert, responds to Voice, responds to Pain, Unresponsive — quick paediatric (and adult) consciousness assessment",
+    "cat": "peds"
+  },
+  {
+    "q": "What is the weight-based CPR compression depth for children?",
+    "a": "At least one-third of the chest depth (about 2 inches / 5cm in children, 1.5 inches / 4cm in infants)",
+    "cat": "peds"
+  },
+  {
+    "q": "What are the stages of hypothermia?",
+    "a": "Mild (32–35°C): shivering. Moderate (28–32°C): confusion, no shivering. Severe (<28°C): cardiac arrest risk.",
+    "cat": "enviro"
+  },
+  {
+    "q": "What is heat stroke vs heat exhaustion?",
+    "a": "Heat exhaustion: sweating, dizzy, normal mentation. Heat stroke: temp >40°C, altered consciousness — emergency.",
+    "cat": "enviro"
+  },
+  {
+    "q": "How do you treat a jellyfish sting?",
+    "a": "Remove tentacles with a card (not hands). Rinse with seawater (not fresh water). Soak in hot water 45°C for 20 min.",
+    "cat": "enviro"
+  },
+  {
+    "q": "What is the first aid for a snake bite?",
+    "a": "Immobilise the limb below heart level, apply pressure-immobilisation bandage, keep patient still, call 112. No cuts or sucking.",
+    "cat": "enviro"
+  },
+  {
+    "q": "What is the antidote for opioid overdose?",
+    "a": "Naloxone (Narcan) — given IM, IV, or intranasally. Repeat every 2–3 minutes if no response.",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What is the SLUDGE toxidrome of organophosphate poisoning?",
+    "a": "Salivation, Lacrimation, Urination, Defecation, GI distress, Emesis — treat with IV Atropine",
+    "cat": "poisoning"
+  },
+  {
+    "q": "Why should you never induce vomiting after caustic ingestion?",
+    "a": "The corrosive burns on the way down AND on the way back up — doubling the oesophageal damage",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What symptom triad suggests digoxin toxicity?",
+    "a": "Nausea/vomiting + yellow-green visual halos + bradycardia. Antidote: Digibind (digoxin-specific antibodies)",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What is the early warning sign of methanol poisoning?",
+    "a": "Visual disturbances (\"snowstorm vision\") after apparent mild intoxication — blindness and death follow rapidly",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What is the correct way to apply direct pressure to a bleeding wound?",
+    "a": "Firm, continuous pressure with a clean cloth for at least 10 minutes — do not lift to check; it breaks the clot",
+    "cat": "wound"
+  },
+  {
+    "q": "When should a wound be left open rather than closed?",
+    "a": "Bite wounds, highly contaminated wounds, and wounds over 6–8 hours old — high infection risk from closure",
+    "cat": "wound"
+  },
+  {
+    "q": "What is the correct wound irrigation technique?",
+    "a": "High-pressure saline flush (at least 200ml) to remove debris — the solution to pollution is dilution",
+    "cat": "wound"
+  },
+  {
+    "q": "What are signs of wound infection?",
+    "a": "Redness spreading beyond wound edges, warmth, swelling, purulent discharge, fever, and increasing pain after 48 hours",
+    "cat": "wound"
+  },
+  {
+    "q": "What is the difference between STEMI and NSTEMI?",
+    "a": "STEMI: complete coronary blockage with ST-elevation on ECG — needs immediate PCI. NSTEMI: partial blockage, no ST elevation but troponin rises.",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What is pulseless electrical activity (PEA)?",
+    "a": "ECG shows organised rhythm but no pulse — causes include 5 Hs and 5 Ts (hypovolemia, hypoxia, tamponade, tension pneumothorax, etc.)",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What is Wolff-Parkinson-White (WPW) syndrome?",
+    "a": "Accessory conduction pathway causing pre-excitation — can degenerate into life-threatening rapid arrhythmia; avoid AV-nodal blockers",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What is the significance of a new left bundle branch block (LBBB)?",
+    "a": "New LBBB with chest pain is treated as STEMI-equivalent — requires immediate cath lab activation",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What is pericarditis and its classic ECG finding?",
+    "a": "Inflammation of the pericardium; ECG shows saddle-shaped ST elevation in multiple leads and PR depression — treat with NSAIDs and rest",
+    "cat": "cardiac"
+  },
+  {
+    "q": "What is the difference between type 1 and type 2 respiratory failure?",
+    "a": "Type 1: low O₂ (hypoxaemia) with normal/low CO₂. Type 2: low O₂ + high CO₂ (hypercapnia) — pump failure or COPD",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What are the signs of an adequate bag-valve-mask seal?",
+    "a": "Visible chest rise with each squeeze, no air leak sounds, and the bag refills completely between breaths",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What is the first-line treatment for a tension pneumothorax?",
+    "a": "Immediate needle decompression — 2nd intercostal space, midclavicular line, before chest X-ray confirmation",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What is Cheyne-Stokes breathing?",
+    "a": "Cyclical crescendo-decrescendo breathing followed by apnoea — indicates brainstem compromise or severe cardiac failure",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What SpO₂ level requires immediate supplemental oxygen?",
+    "a": "SpO₂ below 94% in most adults; below 88% in COPD patients. Target 94–98% generally, 88–92% in COPD.",
+    "cat": "respiratory"
+  },
+  {
+    "q": "What is the ABCDE trauma primary survey?",
+    "a": "Airway (with C-spine), Breathing, Circulation, Disability (neuro), Exposure — life threats treated as found, not after full assessment",
+    "cat": "trauma"
+  },
+  {
+    "q": "What is the difference between haemothorax and pneumothorax?",
+    "a": "Haemothorax: blood in pleural space — dull on percussion. Pneumothorax: air — hyper-resonant. Both: reduced breath sounds.",
+    "cat": "trauma"
+  },
+  {
+    "q": "What is the golden hour in trauma?",
+    "a": "The first 60 minutes after injury — definitive surgical control of bleeding within this window dramatically improves survival",
+    "cat": "trauma"
+  },
+  {
+    "q": "What is a flail chest and why is it dangerous?",
+    "a": "3+ consecutive rib fractures in 2+ places — paradoxical chest movement. Underlying pulmonary contusion is the real danger.",
+    "cat": "trauma"
+  },
+  {
+    "q": "What is damage control resuscitation?",
+    "a": "Permissive hypotension (MAP ~50) + haemostatic resuscitation (plasma:platelets:RBC 1:1:1) + early surgery to control bleeding",
+    "cat": "trauma"
+  },
+  {
+    "q": "What is the rule of nines for burns?",
+    "a": "Head 9%, each arm 9%, chest 18%, back 18%, each leg 18%, perineum 1% — used to estimate total body surface area (TBSA) burned",
+    "cat": "burns"
+  },
+  {
+    "q": "How much IV fluid is given in the Parkland formula for burns?",
+    "a": "4ml × weight(kg) × %TBSA burned. Half in first 8 hours, other half over next 16 hours. Use Ringer's Lactate.",
+    "cat": "burns"
+  },
+  {
+    "q": "What burns should always be referred to a specialist burns unit?",
+    "a": "Burns >10% TBSA, full-thickness burns, face/hands/genitalia/feet/joints, chemical/electrical/inhalation burns, or extremes of age",
+    "cat": "burns"
+  },
+  {
+    "q": "What is the first sign of inhalation injury?",
+    "a": "Singed nasal hairs, soot in airway, hoarse voice, or stridor — intubate early before airway oedema makes it impossible",
+    "cat": "burns"
+  },
+  {
+    "q": "Why should you never use ice on a burn?",
+    "a": "Ice causes vasoconstriction and can deepen the burn by extending tissue ischaemia — use cool running water for 20 minutes",
+    "cat": "burns"
+  },
+  {
+    "q": "What is the difference between a TIA and a stroke?",
+    "a": "TIA: neurological deficit resolving within 24 hours (usually <1hr) with no infarct on imaging. Stroke: persistent deficit with tissue death. Both need emergency evaluation.",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is Cushing's triad and what does it indicate?",
+    "a": "Hypertension + bradycardia + irregular respirations — indicates raised intracranial pressure and impending brainstem herniation",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is the GCS score and a score of 8 means what?",
+    "a": "Glasgow Coma Scale (3–15): Eye + Verbal + Motor. Score ≤8 = severe TBI — protect the airway (intubate)",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is the difference between epidural and subdural haematoma?",
+    "a": "Epidural: arterial bleed (lucid interval then rapid decline). Subdural: venous bleed (slower onset, often elderly/alcoholics)",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is postictal state?",
+    "a": "Temporary confusion, fatigue, weakness after a seizure — lasts minutes to hours. If prolonged >30 min without waking, suspect status epilepticus.",
+    "cat": "neuro"
+  },
+  {
+    "q": "What is the biphasic reaction in anaphylaxis?",
+    "a": "A second allergic reaction occurring 1–72 hours after apparent resolution — reason all anaphylaxis patients need 4–6 hours hospital observation",
+    "cat": "allergy"
+  },
+  {
+    "q": "Where is the correct site to inject an EpiPen?",
+    "a": "Outer mid-thigh, at 90° angle — can be given through clothing. Hold for 10 seconds. Then massage site for 10 seconds.",
+    "cat": "allergy"
+  },
+  {
+    "q": "What is the difference between allergy and intolerance?",
+    "a": "Allergy: immune-mediated (IgE), can be life-threatening. Intolerance: non-immune (e.g., enzyme deficiency) — unpleasant but rarely dangerous.",
+    "cat": "allergy"
+  },
+  {
+    "q": "Which antihistamine is preferred in anaphylaxis and why is it secondary?",
+    "a": "IV chlorphenamine (Piriton) — it treats hives but does NOT reverse bronchospasm or hypotension. Adrenaline is always first.",
+    "cat": "allergy"
+  },
+  {
+    "q": "What is the significance of latex allergy in surgery?",
+    "a": "Cross-reactivity with banana, avocado, kiwi. Must use latex-free environment — even trace exposure can cause fatal anaphylaxis in sensitised patients.",
+    "cat": "allergy"
+  },
+  {
+    "q": "What is Cullen's and Grey Turner's sign?",
+    "a": "Cullen's: periumbilical bruising. Grey Turner's: flank bruising. Both indicate retroperitoneal haemorrhage — classic in severe pancreatitis.",
+    "cat": "gastro"
+  },
+  {
+    "q": "What is the Blatchford score used for?",
+    "a": "Predicts need for intervention in upper GI bleeding — factors include urea, haemoglobin, systolic BP, pulse, melaena, and syncope",
+    "cat": "gastro"
+  },
+  {
+    "q": "What is paralytic ileus and what causes it?",
+    "a": "Bowel stops moving without mechanical obstruction — causes: post-surgery, electrolyte imbalance (low K⁺), sepsis, opioids, peritonitis",
+    "cat": "gastro"
+  },
+  {
+    "q": "What is Charcot's triad of cholangitis?",
+    "a": "Right upper quadrant pain + fever/rigors + jaundice — indicates infected bile duct. Add hypotension + confusion = Reynolds pentad (septic shock)",
+    "cat": "gastro"
+  },
+  {
+    "q": "What is the most common cause of acute pancreatitis in India?",
+    "a": "Gallstones and alcohol abuse — GET SMASHED mnemonic for causes (Gallstones, Ethanol, Trauma, Steroids, Mumps, Autoimmune, Scorpion sting, Hyperlipidaemia/Hypercalcaemia, ERCP, Drugs)",
+    "cat": "gastro"
+  },
+  {
+    "q": "What is the difference between a sprain and a strain?",
+    "a": "Sprain: ligament injury (joint to joint). Strain: muscle or tendon injury (muscle to bone). Both graded I–III by severity.",
+    "cat": "musculo"
+  },
+  {
+    "q": "What is a pathological fracture?",
+    "a": "Fracture through abnormal bone (tumour, osteoporosis, infection) with minimal or no trauma — requires investigation of underlying cause",
+    "cat": "musculo"
+  },
+  {
+    "q": "What are the Ottawa Knee Rules?",
+    "a": "X-ray needed if: age >55, fibular head tenderness, isolated patella tenderness, inability to flex to 90°, or unable to weight-bear 4 steps",
+    "cat": "musculo"
+  },
+  {
+    "q": "What is cauda equina syndrome and why is it urgent?",
+    "a": "Compression of lumbar nerve roots causing saddle anaesthesia, bilateral leg weakness, and bladder/bowel dysfunction — surgical emergency within 24 hours",
+    "cat": "musculo"
+  },
+  {
+    "q": "What is the appropriate management of a dislocated shoulder?",
+    "a": "Do not attempt reduction without imaging and sedation. Immobilise in position found, give analgesia, urgent X-ray to confirm direction of dislocation.",
+    "cat": "musculo"
+  },
+  {
+    "q": "What is the Paediatric Assessment Triangle (PAT)?",
+    "a": "Appearance (TICLS: tone, interactiveness, consolability, look/gaze, speech/cry), Work of breathing, Circulation to skin — 30-second first impression",
+    "cat": "peds"
+  },
+  {
+    "q": "What is pyloric stenosis and its classic presentation?",
+    "a": "Hypertrophic pyloric stenosis in infants 2–8 weeks: projectile non-bilious vomiting after feeds, palpable \"olive\" mass, hypochloraemic metabolic alkalosis",
+    "cat": "peds"
+  },
+  {
+    "q": "What is the danger of a febrile convulsion?",
+    "a": "Usually benign and self-limiting in children 6 months–5 years — danger is if it lasts >5 min (give diazepam), recurs, or has focal features",
+    "cat": "peds"
+  },
+  {
+    "q": "What are the Koplik's spots?",
+    "a": "White spots on a red base inside the cheeks — pathognomonic of measles, appearing 1–2 days before the rash",
+    "cat": "peds"
+  },
+  {
+    "q": "What is intussusception and its classic presentation?",
+    "a": "Telescoping bowel (usually ileocolic) in children 3 months–3 years — colicky abdominal pain, \"redcurrant jelly\" stools, palpable sausage mass",
+    "cat": "peds"
+  },
+  {
+    "q": "What is the dive reflex and how is it used medically?",
+    "a": "Immersing face in ice-cold water stimulates the vagus nerve, slowing the heart — can terminate SVT in stable patients",
+    "cat": "enviro"
+  },
+  {
+    "q": "What is the treatment for high-altitude cerebral oedema (HACE)?",
+    "a": "Immediate descent, supplemental oxygen, dexamethasone 8mg loading dose — a portable hyperbaric chamber (Gamow bag) can be life-saving",
+    "cat": "enviro"
+  },
+  {
+    "q": "What makes lightning injuries different from electrical injuries?",
+    "a": "Lightning: massive DC current, brief exposure — causes cardiac arrest, keraunoparalysis, tympanic rupture. Safe to touch victim — no residual charge.",
+    "cat": "enviro"
+  },
+  {
+    "q": "What is trench foot and how is it prevented?",
+    "a": "Non-freezing cold injury from prolonged wet feet — causes nerve/tissue damage. Prevent by keeping feet dry and warm. Do not rub; rewarm gently.",
+    "cat": "enviro"
+  },
+  {
+    "q": "What is the correct treatment for a dry chemical burn?",
+    "a": "Brush off all dry chemical FIRST with a dry cloth before adding water — water activates some chemicals (e.g., quicklime) causing exothermic reaction",
+    "cat": "enviro"
+  },
+  {
+    "q": "What is the toxidrome for anticholinergic poisoning?",
+    "a": "\"Mad as a hatter, dry as a bone, blind as a bat, hot as a hare, red as a beet\" — tachycardia, dry skin, dilated pupils, hyperthermia, urinary retention",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What is the antidote for organophosphate (OPC) poisoning?",
+    "a": "High-dose IV Atropine (to dry secretions) + Pralidoxime (2-PAM) within 24 hours — common in India from agricultural pesticides",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What is the antidote for benzodiazepine overdose?",
+    "a": "Flumazenil — but use with caution; can precipitate severe seizures in chronic users or mixed overdoses. Supportive care is often safer.",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What is activated charcoal and when should it be given?",
+    "a": "Binds most toxins in the gut. Effective only within 1 hour of ingestion. Contraindicated for caustics, hydrocarbons, metals, and alcohols.",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What is the classic presentation of carbon monoxide poisoning?",
+    "a": "Headache, nausea, confusion in multiple people from the same enclosed space — \"cherry-red\" skin is a late sign. CO-Hb on co-oximetry confirms it.",
+    "cat": "poisoning"
+  },
+  {
+    "q": "What is the emergency treatment for chemical eye injury?",
+    "a": "Irrigate immediately with copious saline or water for at least 20–30 minutes — do not delay for pH testing. Alkalis penetrate deeper than acids.",
+    "cat": "eye"
+  },
+  {
+    "q": "What are the signs of orbital cellulitis vs periorbital cellulitis?",
+    "a": "Orbital: proptosis, restricted/painful eye movement, vision change — CNS extension risk. Periorbital: swelling confined to eyelid, eye moves freely.",
+    "cat": "eye"
+  },
+  {
+    "q": "What is sudden painless vision loss a sign of?",
+    "a": "Central retinal artery occlusion (\"eye stroke\") — requires urgent ophthalmology, same workup as stroke. Window for treatment is 90–100 minutes.",
+    "cat": "eye"
+  },
+  {
+    "q": "What is a hyphaema?",
+    "a": "Blood in the anterior chamber of the eye after blunt trauma — avoid NSAIDs (increase bleeding), keep head elevated 45°, eye shield",
+    "cat": "eye"
+  },
+  {
+    "q": "What are the danger signs in epistaxis (nosebleed) requiring hospital care?",
+    "a": "Bleeding >20 minutes despite pressure, large volume loss, blood trickling down throat, on anticoagulants, hypertensive crisis, or post-nasal bleed",
+    "cat": "eye"
+  },
+  {
+    "q": "What is the ABCDE rule for melanoma?",
+    "a": "Asymmetry, Border irregularity, Colour variation, Diameter >6mm, Evolution (change over time) — any one feature warrants urgent dermatology referral",
+    "cat": "skin"
+  },
+  {
+    "q": "What is necrotising fasciitis and why is it a surgical emergency?",
+    "a": "Rapidly spreading deep tissue infection destroying fascia and skin — \"flesh-eating bacteria\". Pain disproportionate to appearance. Needs immediate surgical debridement.",
+    "cat": "skin"
+  },
+  {
+    "q": "What is the difference between urticaria and angioedema?",
+    "a": "Urticaria: raised itchy wheals on the skin surface. Angioedema: deeper swelling of dermis/subcutaneous tissue — airway involvement is life-threatening.",
+    "cat": "skin"
+  },
+  {
+    "q": "What is impetigo and how is it managed?",
+    "a": "Highly contagious superficial bacterial skin infection (Staph/Strep) — golden crusted lesions. Treated with topical mupirocin or oral flucloxacillin for widespread cases.",
+    "cat": "skin"
+  },
+  {
+    "q": "What is a keloid scar and how does it differ from hypertrophic scarring?",
+    "a": "Keloid: grows beyond original wound boundaries, does not regress. Hypertrophic: stays within wound margins and can improve over time.",
+    "cat": "skin"
+  },
+  {
+    "q": "What is the difference between placenta praevia and placental abruption?",
+    "a": "Praevia: painless bright red bleeding — placenta covers cervix. Abruption: painful dark bleeding with tender rigid uterus — placenta separates prematurely.",
+    "cat": "obstetric"
+  },
+  {
+    "q": "What are the warning signs of pre-eclampsia?",
+    "a": "BP >140/90 after 20 weeks + proteinuria + headache, visual disturbances, epigastric pain, oedema — can progress to eclampsia (seizures)",
+    "cat": "obstetric"
+  },
+  {
+    "q": "What is the Apgar score?",
+    "a": "Assessed at 1 and 5 minutes: Appearance (colour), Pulse, Grimace, Activity, Respiration — 0–2 each, total 10. Score <7 needs intervention.",
+    "cat": "obstetric"
+  },
+  {
+    "q": "What is a cord prolapse and why is it critical?",
+    "a": "Umbilical cord descends ahead of presenting part — compressed cord = foetal hypoxia. Position mother in knee-chest, push presenting part up, immediate C-section.",
+    "cat": "obstetric"
+  },
+  {
+    "q": "What is postpartum haemorrhage (PPH)?",
+    "a": "Blood loss >500ml after vaginal delivery or >1000ml after C-section. 4 Ts: Tone (atony 80%), Tissue (retained), Trauma, Thrombin (coagulopathy)",
+    "cat": "obstetric"
+  },
+  {
+    "q": "What is the Safe Messaging approach when someone expresses suicidal ideation?",
+    "a": "Listen without judgment, ask directly about suicidal plans, remove means if possible, stay with them, call iCall (9152987821) or take to emergency",
+    "cat": "mental"
+  },
+  {
+    "q": "What is serotonin syndrome and its triad?",
+    "a": "Altered mental status + neuromuscular abnormalities (clonus, hyperreflexia) + autonomic instability (hyperthermia, tachycardia) — caused by excess serotonergic activity",
+    "cat": "mental"
+  },
+  {
+    "q": "What is the difference between delirium and dementia?",
+    "a": "Delirium: acute, fluctuating, reversible, often with a medical cause. Dementia: gradual, progressive, chronic — but delirium can be superimposed on dementia",
+    "cat": "mental"
+  },
+  {
+    "q": "What is a panic attack vs a cardiac event differentiation challenge?",
+    "a": "Symptoms overlap (chest pain, palpitations, dyspnoea) — always rule out MI and PE first. Panic attacks typically peak in 10 minutes and resolve fully.",
+    "cat": "mental"
+  },
+  {
+    "q": "What is neuroleptic malignant syndrome (NMS)?",
+    "a": "Life-threatening reaction to antipsychotics: hyperthermia, rigid muscles, altered consciousness, autonomic instability. Stop antipsychotic immediately, ICU admission.",
+    "cat": "mental"
+  },
+  {
+    "q": "What is the correct first aid for an avulsed (knocked-out) permanent tooth?",
+    "a": "Hold by crown only, rinse gently, reimplant immediately OR store in milk / saliva. Do NOT store in water. Reimplant within 30 minutes for best prognosis.",
+    "cat": "dental"
+  },
+  {
+    "q": "What is Ludwig's angina?",
+    "a": "Rapidly spreading cellulitis of the floor of the mouth — airway compromise risk. Requires urgent IV antibiotics and often surgical drainage/airway management.",
+    "cat": "dental"
+  },
+  {
+    "q": "What is dental abscess treatment in the field?",
+    "a": "Analgesia (ibuprofen + paracetamol), warm salt water rinses, urgent dental referral. Antibiotics (amoxicillin) only if systemic signs or spreading cellulitis.",
+    "cat": "dental"
+  },
+  {
+    "q": "What is trismus and what does it indicate?",
+    "a": "Inability to fully open the mouth (lockjaw) — can indicate peritonsillar abscess, tetanus, masseteric spasm, or TMJ dislocation — requires urgent assessment",
+    "cat": "dental"
+  },
+  {
+    "q": "How do you manage a dislocated jaw (TMJ dislocation)?",
+    "a": "Patient unable to close mouth, jaw deviated. Reduction: thumbs on lower molars, downward then backward pressure with controlled force. Post-reduction soft diet.",
+    "cat": "dental"
+  },
+  {
+    "q": "What is the sepsis \"1-hour bundle\"?",
+    "a": "Measure lactate, take blood cultures, give broad-spectrum antibiotics, start 30ml/kg IV crystalloid for hypotension/lactate ≥4 — every hour of delay increases mortality by ~7%",
+    "cat": "infectious"
+  },
+  {
+    "q": "What is the clinical triad of meningitis?",
+    "a": "Neck stiffness (meningism) + fever + photophobia — but absent in 50% of cases. Non-blanching rash = meningococcal septicaemia = immediate 112",
+    "cat": "infectious"
+  },
+  {
+    "q": "What is dengue shock syndrome?",
+    "a": "Platelet drop + plasma leakage causing haemoconcentration, hypotension — occurs during defervescence (when fever breaks). IV fluids are critical but must be carefully monitored.",
+    "cat": "infectious"
+  },
+  {
+    "q": "What are the danger signs in malaria?",
+    "a": "Cerebral malaria (confusion/coma), severe anaemia, blackwater fever (haemoglobinuria), respiratory distress, parasitaemia >5% — require IV artesunate in ICU",
+    "cat": "infectious"
+  },
+  {
+    "q": "What is the window period for rabies post-exposure prophylaxis (PEP)?",
+    "a": "PEP can be given at any time but is most effective if started immediately. Rabies is nearly 100% fatal once symptomatic — never delay after animal bite.",
+    "cat": "infectious"
+  },
+  {
+    "q": "What is the Whipple's triad for hypoglycaemia?",
+    "a": "Symptoms of low blood sugar + blood glucose <70mg/dL + relief of symptoms after glucose administration",
+    "cat": "diabetic"
+  },
+  {
+    "q": "What is Somogyi effect vs Dawn phenomenon?",
+    "a": "Somogyi: rebound hyperglycaemia after nocturnal hypoglycaemia. Dawn: early morning hyperglycaemia from growth hormone/cortisol surge — managed differently",
+    "cat": "diabetic"
+  },
+  {
+    "q": "What is hyperosmolar hyperglycaemic state (HHS)?",
+    "a": "Glucose >600mg/dL, severe dehydration, high osmolality but NO significant ketosis — occurs in type 2 DM, often elderly. Mortality higher than DKA.",
+    "cat": "diabetic"
+  },
+  {
+    "q": "What is the 15-15 rule for mild hypoglycaemia?",
+    "a": "Give 15g fast-acting carbs (3 glucose tablets / 150ml fruit juice), wait 15 minutes, recheck glucose. Repeat if still <70mg/dL. Follow with a snack.",
+    "cat": "diabetic"
+  },
+  {
+    "q": "What are the feet inspection criteria for diabetic patients?",
+    "a": "Daily check for blisters, cuts, redness, warmth, or swelling — neuropathy masks pain. Any wound must be seen by a doctor within 24 hours due to infection and gangrene risk",
+    "cat": "diabetic"
+  },
+  {
+    "q": "What is the tetanus prophylaxis rule for wounds?",
+    "a": "Clean wounds + <3 doses prior: give toxoid. Dirty wounds + <3 doses: give toxoid + immunoglobulin (TIG). Boosters every 10 years for all adults.",
+    "cat": "wound"
+  },
+  {
+    "q": "What is the difference between primary, secondary and tertiary wound closure?",
+    "a": "Primary: closed immediately. Secondary: left open to heal by granulation (contaminated wounds). Tertiary (delayed primary): closed after 3–5 days once infection risk drops.",
+    "cat": "wound"
+  },
+  {
+    "q": "How should a bite wound be managed?",
+    "a": "Thorough irrigation with saline under pressure, debridement, leave open (bites have high infection risk), antibiotics (co-amoxiclav), assess rabies/tetanus risk",
+    "cat": "wound"
+  },
+  {
+    "q": "What is a keloid risk factor and how does it affect wound management?",
+    "a": "Dark skin, chest/shoulder/earlobe location, prior keloid — use tension-free closure, avoid unnecessary surgery, early silicone sheets post-healing",
+    "cat": "wound"
+  },
+  {
+    "q": "What is debridement and when is it needed?",
+    "a": "Removal of dead/contaminated tissue from a wound — required for any wound with necrosis, eschar, foreign material, or signs of infection to allow healing",
+    "cat": "wound"
+  },
+  {
+    "q": "What is the toxidrome for sympathomimetic poisoning?",
+    "a": "Tachycardia, hypertension, hyperthermia, dilated pupils, sweating, agitation — caused by cocaine, amphetamines, pseudoephedrine",
+    "cat": "toxicology"
+  },
+  {
+    "q": "What is the antidote for paracetamol (acetaminophen) overdose?",
+    "a": "N-acetylcysteine (NAC) — most effective within 8 hours but beneficial up to 24 hours. Prevents hepatic necrosis by replenishing glutathione.",
+    "cat": "toxicology"
+  },
+  {
+    "q": "What is the antidote for iron overdose?",
+    "a": "Desferrioxamine (deferoxamine) IV — chelates free iron. Gastric lavage and whole-bowel irrigation may also be used. Activated charcoal does NOT bind iron.",
+    "cat": "toxicology"
+  },
+  {
+    "q": "What is the specific antidote for digoxin toxicity?",
+    "a": "Digoxin-specific antibody fragments (Digibind/DigiFab) — indicated for severe arrhythmia, hyperkalaemia >5.5, or ingestion of >10mg in adults",
+    "cat": "toxicology"
+  },
+  {
+    "q": "What is the \"toxicology screen\" limitation in clinical practice?",
+    "a": "Standard urine screens miss many drugs (fentanyl, GHB, newer synthetics) — clinical toxidromes and history are more useful than waiting for lab results",
+    "cat": "toxicology"
+  }
+]

@@ -1,0 +1,307 @@
+{
+  "cardiac": {
+    "spec": "cardiac",
+    "specialist": "Cardiologist",
+    "keywords": [
+      "heart",
+      "cardiac",
+      "chest pain",
+      "angina",
+      "palpitation",
+      "arrhythmia",
+      "bypass",
+      "cath lab"
+    ]
+  },
+  "respiratory": {
+    "spec": "general",
+    "specialist": "Pulmonologist",
+    "keywords": [
+      "breathing",
+      "lungs",
+      "asthma",
+      "copd",
+      "pneumonia",
+      "respiratory",
+      "inhaler",
+      "bronchitis",
+      "oxygen"
+    ]
+  },
+  "trauma": {
+    "spec": "trauma",
+    "specialist": "Emergency Surgeon / Trauma Surgeon",
+    "keywords": [
+      "accident",
+      "fracture",
+      "injury",
+      "crash",
+      "head injury",
+      "trauma",
+      "wound",
+      "bleed"
+    ]
+  },
+  "burns": {
+    "spec": "burns",
+    "specialist": "Burns Specialist / Plastic Surgeon",
+    "keywords": [
+      "burn",
+      "scald",
+      "fire",
+      "chemical burn",
+      "electrical burn",
+      "thermal"
+    ]
+  },
+  "neuro": {
+    "spec": "neuro",
+    "specialist": "Neurologist / Neurosurgeon",
+    "keywords": [
+      "brain",
+      "stroke",
+      "seizure",
+      "convulsion",
+      "paralysis",
+      "neuro",
+      "spine",
+      "headache",
+      "epilepsy",
+      "unconscious"
+    ]
+  },
+  "allergy": {
+    "spec": "general",
+    "specialist": "Allergist / Immunologist",
+    "keywords": [
+      "allergy",
+      "anaphylaxis",
+      "hives",
+      "rash",
+      "epipen",
+      "allergic reaction",
+      "urticaria"
+    ]
+  },
+  "gastro": {
+    "spec": "general",
+    "specialist": "Gastroenterologist",
+    "keywords": [
+      "stomach",
+      "gut",
+      "vomiting blood",
+      "gastro",
+      "liver",
+      "bowel",
+      "intestine",
+      "appendix",
+      "pancreatitis",
+      "ulcer",
+      "diarrhea"
+    ]
+  },
+  "musculo": {
+    "spec": "orthopedic",
+    "specialist": "Orthopaedic Surgeon / Physiotherapist",
+    "keywords": [
+      "bone",
+      "joint",
+      "muscle",
+      "fracture",
+      "sprain",
+      "dislocate",
+      "ortho",
+      "spine",
+      "back pain",
+      "knee",
+      "shoulder"
+    ]
+  },
+  "peds": {
+    "spec": "pediatric",
+    "specialist": "Paediatrician",
+    "keywords": [
+      "child",
+      "infant",
+      "baby",
+      "pediatric",
+      "kid",
+      "newborn",
+      "toddler",
+      "febrile",
+      "childhood"
+    ]
+  },
+  "enviro": {
+    "spec": "general",
+    "specialist": "Emergency Physician / Intensivist",
+    "keywords": [
+      "heatstroke",
+      "hypothermia",
+      "frostbite",
+      "drowning",
+      "lightning",
+      "altitude",
+      "dehydration",
+      "sunstroke",
+      "exposure"
+    ]
+  },
+  "poisoning": {
+    "spec": "general",
+    "specialist": "Toxicologist / Poison Control",
+    "keywords": [
+      "poison",
+      "overdose",
+      "swallowed",
+      "toxic",
+      "ingested",
+      "fumes",
+      "carbon monoxide",
+      "narcan",
+      "naloxone"
+    ]
+  },
+  "eye": {
+    "spec": "eye",
+    "specialist": "Ophthalmologist / ENT Surgeon",
+    "keywords": [
+      "eye",
+      "vision",
+      "blind",
+      "ear",
+      "nose",
+      "throat",
+      "ent",
+      "cornea",
+      "retina",
+      "hearing"
+    ]
+  },
+  "skin": {
+    "spec": "general",
+    "specialist": "Dermatologist",
+    "keywords": [
+      "skin",
+      "rash",
+      "itch",
+      "derma",
+      "blister",
+      "sores",
+      "infection skin",
+      "eczema",
+      "psoriasis",
+      "hives"
+    ]
+  },
+  "obstetric": {
+    "spec": "obstetric",
+    "specialist": "Obstetrician / Gynaecologist (OB-GYN)",
+    "keywords": [
+      "pregnancy",
+      "labour",
+      "delivery",
+      "miscarriage",
+      "eclampsia",
+      "obstetric",
+      "placenta",
+      "antenatal",
+      "postnatal",
+      "ectopic",
+      "contractions"
+    ]
+  },
+  "mental": {
+    "spec": "mental",
+    "specialist": "Psychiatrist / Clinical Psychologist",
+    "keywords": [
+      "mental",
+      "psychiatric",
+      "suicide",
+      "depression",
+      "anxiety",
+      "psychosis",
+      "mania",
+      "hallucination",
+      "panic attack",
+      "self harm",
+      "overdose intentional"
+    ]
+  },
+  "dental": {
+    "spec": "general",
+    "specialist": "Dentist / Oral Surgeon",
+    "keywords": [
+      "tooth",
+      "dental",
+      "gum",
+      "jaw",
+      "mouth",
+      "toothache",
+      "cavity",
+      "abscess oral",
+      "wisdom tooth"
+    ]
+  },
+  "infectious": {
+    "spec": "infectious",
+    "specialist": "Infectious Disease Specialist",
+    "keywords": [
+      "fever",
+      "dengue",
+      "malaria",
+      "cholera",
+      "typhoid",
+      "covid",
+      "infection",
+      "viral",
+      "bacterial",
+      "sepsis",
+      "outbreak",
+      "rabies"
+    ]
+  },
+  "diabetic": {
+    "spec": "diabetic",
+    "specialist": "Endocrinologist / Diabetologist",
+    "keywords": [
+      "diabetes",
+      "blood sugar",
+      "insulin",
+      "hypoglycaemia",
+      "hyperglycaemia",
+      "diabetic",
+      "dka",
+      "glucose"
+    ]
+  },
+  "wound": {
+    "spec": "general",
+    "specialist": "General Surgeon / Wound Care Nurse",
+    "keywords": [
+      "wound",
+      "cut",
+      "laceration",
+      "suture",
+      "stitches",
+      "bleeding",
+      "gash",
+      "puncture",
+      "abrasion"
+    ]
+  },
+  "toxicology": {
+    "spec": "general",
+    "specialist": "Toxicologist / Clinical Pharmacologist",
+    "keywords": [
+      "toxin",
+      "venom",
+      "snake bite",
+      "scorpion",
+      "spider",
+      "poison gas",
+      "chemical exposure",
+      "drug interaction"
+    ]
+  }
+}

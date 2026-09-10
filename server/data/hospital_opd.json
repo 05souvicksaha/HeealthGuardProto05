@@ -1,0 +1,458 @@
+{
+  "SSKM / PG Hospital": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Specialty OPDs Mon–Sat; Registration closes 15 min early."
+  },
+  "NRS Medical College & Hospital": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Token system; arrive early for popular departments."
+  },
+  "RG Kar Medical College & Hospital": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Separate OPD blocks per department."
+  },
+  "Medical College & Hospital Kolkata": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "One of the busiest OPDs; token from 7:00 AM."
+  },
+  "Calcutta National Medical College (CNMC)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Obstetric & paediatric OPDs most in-demand."
+  },
+  "Sambhunath Pandit Hospital": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Maternity OPD daily; general OPD Mon–Fri."
+  },
+  "Infectious Disease & Beliaghata General Hospital (ID&BG)": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Fever/tropical disease clinic daily."
+  },
+  "Chittaranjan National Cancer Institute (CNCI)": {
+    "weekday": "9:00 AM – 2:00 PM",
+    "saturday": "9:00 AM – 1:00 PM",
+    "sunday": "Closed",
+    "note": "Prior appointment recommended for specialist OPD."
+  },
+  "Institute of Child Health (ICH)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Neonatal & paediatric super-specialty OPD Mon–Fri."
+  },
+  "Institute of Psychiatry (Govt)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Closed",
+    "note": "Separate OPDs for adult, child & forensic psychiatry."
+  },
+  "AIIMS Kalyani": {
+    "weekday": "8:30 AM – 1:00 PM",
+    "saturday": "8:30 AM – 12:30 PM",
+    "sunday": "Emergency only",
+    "note": "Online appointment via AIIMS portal preferred."
+  },
+  "ESI Hospital Maniktala": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "For ESI insured workers and dependants."
+  },
+  "Vivekananda Hospital (Govt – Salt Lake)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "General and orthopedic OPD daily."
+  },
+  "Bangur Institute of Neurosciences (BIN)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Neuro OPD token from 8:00 AM; epilepsy & stroke clinics Wed & Fri."
+  },
+  "School of Tropical Medicine (STM)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Closed",
+    "note": "Travel medicine & tropical disease specialist OPD."
+  },
+  "Regional Institute of Ophthalmology (RIO)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Eye emergency 24×7; routine OPD Mon–Sat."
+  },
+  "Institute of Haematology & Transfusion Medicine (IHTM)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Closed",
+    "note": "Haematology OPD Mon, Wed, Fri. Blood bank 24×7."
+  },
+  "Barasat Government Medical College & Hospital": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Super-speciality block OPD Mon–Fri."
+  },
+  "Diamond Harbour Government Medical College & Hospital": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Coastal district hospital; OPD token from 8:30 AM."
+  },
+  "ESI Hospital Sealdah": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "ESI beneficiaries only."
+  },
+  "Howrah District Hospital (Shyama Prasad Mukherjee Hospital)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Separate blocks for medicine, surgery, gynaecology."
+  },
+  "Jagannath Gupta Institute of Medical Sciences (JGIMS)": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "New medical college; OPD capacity expanding."
+  },
+  "Ramakrishna Mission Seva Pratisthan (Charitable Govt-aided)": {
+    "weekday": "8:00 AM – 12:00 PM",
+    "saturday": "8:00 AM – 11:00 AM",
+    "sunday": "Emergency only",
+    "note": "Affordable charitable OPD; token by 7:30 AM."
+  },
+  "Sagore Dutta Medical College & Hospital": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Serves dense north Kolkata suburbs."
+  },
+  "Naihati Sub-divisional Hospital": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "24×7 casualty; OPD covers Naihati-Bhatpara belt."
+  },
+  "Eastern Command Military Hospital": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Defence personnel & dependants only."
+  },
+  "Command Hospital (Eastern Command)": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Armed forces hospital; defence ID required."
+  },
+  "B.R. Singh Railway Hospital": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Eastern Railway employees & dependants."
+  },
+  "ESI Medical College Kolkata (Joka)": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "ESI medical college south Kolkata; specialist OPD Mon–Fri."
+  },
+  "ESI Hospital Uluberia": {
+    "weekday": "8:00 AM – 1:00 PM",
+    "saturday": "8:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "ESI insured workers in Uluberia belt."
+  },
+  "Apollo Gleneagles Hospital": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 2:00 PM",
+    "note": "Appointment via app/website recommended. Emergency 24×7."
+  },
+  "Fortis Hospital Anandapur": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 2:00 PM",
+    "note": "Multi-shift OPD; cardiac & neuro consultants available evenings."
+  },
+  "AMRI Hospital Salt Lake": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Online pre-booking available. Walk-in accepted."
+  },
+  "AMRI Hospital Dhakuria": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "South Kolkata hub; cardiology & ortho OPD popular."
+  },
+  "AMRI Hospitals Mukundapur": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Third AMRI location; cancer & cardiac OPD."
+  },
+  "Medica Superspecialty Hospital": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 2:00 PM",
+    "note": "Multiple specialist OPDs across all days."
+  },
+  "Peerless Hospital & B.K. Roy Research Centre": {
+    "weekday": "8:00 AM – 6:00 PM",
+    "saturday": "8:00 AM – 4:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Token system; cardiac & gastro OPD very busy."
+  },
+  "Narayana Superspeciality Hospital (RTIICS)": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Affordable super-specialty care; appointment advised."
+  },
+  "Belle Vue Clinic": {
+    "weekday": "9:00 AM – 7:00 PM",
+    "saturday": "9:00 AM – 5:00 PM",
+    "sunday": "10:00 AM – 1:00 PM",
+    "note": "Premium private clinic; appointment essential for senior consultants."
+  },
+  "Woodlands Multispeciality Hospital": {
+    "weekday": "9:00 AM – 7:00 PM",
+    "saturday": "9:00 AM – 5:00 PM",
+    "sunday": "10:00 AM – 1:00 PM",
+    "note": "Park Street area; cardiology & ortho OPD Mon–Sat."
+  },
+  "BM Birla Heart Research Centre": {
+    "weekday": "8:00 AM – 5:00 PM",
+    "saturday": "8:00 AM – 2:00 PM",
+    "sunday": "Emergency only",
+    "note": "Dedicated cardiac OPD. Pre-registration recommended."
+  },
+  "ILS Hospitals Salt Lake": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Oncology & multispeciality OPD Mon–Sat."
+  },
+  "Columbia Asia Hospital Kolkata": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 2:00 PM",
+    "note": "International-standard OPD; appointment via website."
+  },
+  "Bhagirathi Neotia Woman & Child Care Centre": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 4:00 PM",
+    "sunday": "10:00 AM – 1:00 PM",
+    "note": "Women & child specialist OPD only; appointment needed."
+  },
+  "Techno India DAMA Hospital": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 4:00 PM",
+    "sunday": "Emergency only",
+    "note": "General & orthopedic OPD; walk-in accepted."
+  },
+  "Desun Hospital & Heart Institute": {
+    "weekday": "9:00 AM – 7:00 PM",
+    "saturday": "9:00 AM – 4:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Cardiac OPD daily; online appointment preferred."
+  },
+  "Ruby General Hospital": {
+    "weekday": "9:00 AM – 7:00 PM",
+    "saturday": "9:00 AM – 4:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "General & multispeciality OPD; EM Bypass location."
+  },
+  "Manipal Hospitals Kolkata (CMRI)": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Appointment via Manipal app/website recommended."
+  },
+  "Park Clinic": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "Senior consultants available afternoons; appointment essential."
+  },
+  "Charnock Hospital": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "South Kolkata facility; cardiac & general OPD."
+  },
+  "KPC Medical College & Hospital": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Emergency only",
+    "note": "Teaching hospital OPD Mon–Sat."
+  },
+  "Sunrise Hospital": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "General & obstetric OPD."
+  },
+  "Nightingale Hospital": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "General & paediatric OPD Mon–Sat."
+  },
+  "Fortis Hospital Kolkata (Kasba)": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 2:00 PM",
+    "note": "Cath lab & neuro ICU; OPD appointment preferred."
+  },
+  "Rabindranath Tagore International Institute of Cardiac Sciences (RTIICS)": {
+    "weekday": "8:00 AM – 5:00 PM",
+    "saturday": "8:00 AM – 2:00 PM",
+    "sunday": "Emergency only",
+    "note": "Dedicated cardiac & paediatric cardiac OPD."
+  },
+  "Columbia Asia Referral Hospital (Kolkata)": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 2:00 PM",
+    "note": "International-standard Rajarhat unit; OPD appointment online."
+  },
+  "Calcutta Medical Research Institute (CMRI)": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Bhowanipore unit; orthopaedics & cardiac OPD popular."
+  },
+  "Kothari Medical Centre": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "Alipore location; cardiology & ortho OPD."
+  },
+  "Hinduja Clinic (Kolkata)": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "Gariahat neighbourhood clinic; walk-in friendly."
+  },
+  "Health World Hospitals": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "NABH-accredited; cardiac & oncology OPD daily."
+  },
+  "Disha Eye Hospitals (Barrackpore)": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 4:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Eye-only OPD; LASIK & cataract clinics most days."
+  },
+  "Suraksha Diagnostics & Medical Centre": {
+    "weekday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "9:00 AM – 3:00 PM",
+    "note": "Diagnostic hub; specialist consultations by appointment."
+  },
+  "CMRI Hospital (Gorky Terrace)": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "Bhowanipore unit; cardiac & ortho OPD."
+  },
+  "Exide Care Multi-speciality Hospital": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "EM Bypass unit; cardiac & obstetric OPD."
+  },
+  "The Mission Hospital Durgapur": {
+    "weekday": "8:00 AM – 6:00 PM",
+    "saturday": "8:00 AM – 4:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Largest private in Durgapur; cancer & cardiac OPD daily."
+  },
+  "IQ City Medical College & Narayana Hospital": {
+    "weekday": "8:00 AM – 5:00 PM",
+    "saturday": "8:00 AM – 2:00 PM",
+    "sunday": "Emergency only",
+    "note": "Medical college OPD; super-specialty by appointment."
+  },
+  "Durgapur Mission Hospital": {
+    "weekday": "9:00 AM – 5:00 PM",
+    "saturday": "9:00 AM – 2:00 PM",
+    "sunday": "Emergency only",
+    "note": "Charitable hospital; cardiac & ortho OPD weekdays."
+  },
+  "North Bengal Clinic (Siliguri)": {
+    "weekday": "8:00 AM – 7:00 PM",
+    "saturday": "8:00 AM – 5:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Siliguri's leading private OPD; cardiac cath lab consultations."
+  },
+  "Medica North Bengal Clinic": {
+    "weekday": "8:00 AM – 7:00 PM",
+    "saturday": "8:00 AM – 5:00 PM",
+    "sunday": "9:00 AM – 1:00 PM",
+    "note": "Cancer & cardiac OPD daily; appointment via Medica app."
+  },
+  "Howrah Multispeciality Hospital": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "Howrah city; cardiac & general OPD."
+  },
+  "Peerless Nagar Hospital": {
+    "weekday": "9:00 AM – 5:00 PM",
+    "saturday": "9:00 AM – 2:00 PM",
+    "sunday": "Emergency only",
+    "note": "Community OPD in north Kolkata; walk-in accepted."
+  },
+  "Netaji Subhash Chandra Bose Cancer Research Institute": {
+    "weekday": "9:00 AM – 1:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Closed",
+    "note": "Oncology OPD by appointment; chemotherapy daily."
+  },
+  "CMRI Hospital Burdwan": {
+    "weekday": "9:00 AM – 5:00 PM",
+    "saturday": "9:00 AM – 2:00 PM",
+    "sunday": "Emergency only",
+    "note": "Burdwan city unit; cardiac cath lab OPD."
+  },
+  "Care & Cure Hospital (Rajarhat)": {
+    "weekday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 3:00 PM",
+    "sunday": "Emergency only",
+    "note": "Neighbourhood hospital; general & obstetric OPD."
+  },
+  "Medica Oncology (Mukundapur)": {
+    "weekday": "9:00 AM – 4:00 PM",
+    "saturday": "9:00 AM – 2:00 PM",
+    "sunday": "Closed",
+    "note": "Oncology only. Chemotherapy by schedule; PET-CT by appointment."
+  },
+  "SRL Diagnostics (Kolkata Hub)": {
+    "weekday": "7:00 AM – 9:00 PM",
+    "saturday": "7:00 AM – 9:00 PM",
+    "sunday": "8:00 AM – 6:00 PM",
+    "note": "Diagnostics/pathology only — no clinical OPD. Home sample collection available."
+  }
+}

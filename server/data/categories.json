@@ -1,0 +1,122 @@
+{
+  "cardiac": {
+    "label": "Cardiac",
+    "color": "#ff2d55",
+    "icon": "fa-heart-pulse",
+    "bg": "rgba(255,45,85,.12)"
+  },
+  "respiratory": {
+    "label": "Respiratory",
+    "color": "#00e676ff",
+    "icon": "fa-lungs",
+    "bg": "rgba(0,230,118,.12)"
+  },
+  "trauma": {
+    "label": "Trauma",
+    "color": "#ffb300",
+    "icon": "fa-person-falling",
+    "bg": "rgba(255,179,0,.12)"
+  },
+  "burns": {
+    "label": "Burns",
+    "color": "#ff7043",
+    "icon": "fa-fire-flame-curved",
+    "bg": "rgba(255,112,67,.12)"
+  },
+  "neuro": {
+    "label": "Neurological",
+    "color": "#a855f7",
+    "icon": "fa-brain",
+    "bg": "rgba(105,240,174,.12)"
+  },
+  "allergy": {
+    "label": "Allergic",
+    "color": "#f59e0b",
+    "icon": "fa-circle-exclamation",
+    "bg": "rgba(245,158,11,.12)"
+  },
+  "gastro": {
+    "label": "Gastro",
+    "color": "#10b981",
+    "icon": "fa-circle-plus",
+    "bg": "rgba(16,185,129,.12)"
+  },
+  "musculo": {
+    "label": "Musculoskeletal",
+    "color": "#3b82f6",
+    "icon": "fa-bone",
+    "bg": "rgba(59,130,246,.12)"
+  },
+  "peds": {
+    "label": "Pediatric",
+    "color": "#ec4899",
+    "icon": "fa-baby",
+    "bg": "rgba(236,72,153,.12)"
+  },
+  "enviro": {
+    "label": "Environmental",
+    "color": "#22c55e",
+    "icon": "fa-sun",
+    "bg": "rgba(34,197,94,.12)"
+  },
+  "poisoning": {
+    "label": "Poisoning",
+    "color": "#8b5cf6",
+    "icon": "fa-skull-crossbones",
+    "bg": "rgba(139,92,246,.12)"
+  },
+  "eye": {
+    "label": "Eye & ENT",
+    "color": "#06b6d4",
+    "icon": "fa-eye",
+    "bg": "rgba(6,182,212,.12)"
+  },
+  "skin": {
+    "label": "Dermatology",
+    "color": "#f97316",
+    "icon": "fa-hand-dots",
+    "bg": "rgba(249,115,22,.12)"
+  },
+  "obstetric": {
+    "label": "Obstetric",
+    "color": "#db2777",
+    "icon": "fa-person-pregnant",
+    "bg": "rgba(219,39,119,.12)"
+  },
+  "mental": {
+    "label": "Mental Health",
+    "color": "#6366f1",
+    "icon": "fa-brain",
+    "bg": "rgba(99,102,241,.12)"
+  },
+  "dental": {
+    "label": "Dental",
+    "color": "#64748b",
+    "icon": "fa-tooth",
+    "bg": "rgba(100,116,139,.12)"
+  },
+  "infectious": {
+    "label": "Infectious",
+    "color": "#ef4444",
+    "icon": "fa-virus",
+    "bg": "rgba(239,68,68,.12)"
+  },
+  "diabetic": {
+    "label": "Diabetic",
+    "color": "#0ea5e9",
+    "icon": "fa-droplet",
+    "bg": "rgba(14,165,233,.12)"
+  },
+  "wound": {
+    "label": "Wounds",
+    "color": "#dc2626",
+    "icon": "fa-bandage",
+    "bg": "rgba(220,38,38,.12)"
+  },
+  "toxicology": {
+    "label": "Toxicology",
+    "color": "#7c3aed",
+    "icon": "fa-flask-vial",
+    "bg": "rgba(124,58,237,.12)"
+  }
+}
